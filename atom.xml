@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Dhruv Doshi</title>
- <link href="https://dhruvdoshi.github.io/blog//atom.xml" rel="self"/>
- <link href="https://dhruvdoshi.github.io/blog//"/>
- <updated>2021-10-16T18:10:03-03:00</updated>
+ <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
+ <link href="https://dhruvdoshi.github.io/blog/"/>
+ <updated>2021-10-16T18:19:22-03:00</updated>
  <id>https://dhruvdoshi.github.io/blog</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>What is Blockchain ?</title>
-   <link href="https://dhruvdoshi.github.io/blog//2019/08/31/what-is-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain"/>
    <updated>2019-08-31T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/blog/2019/08/31/What-is-Blockchain-!</id>
    <content type="html">&lt;p&gt;Blockchain is the technology which allows the user to create the decentralized system of transaction and data transfers. Saying more on, for the naïve person it is a method to create a people’s bank without centrals banks! Blockchain technology is used in backend for each cryptocurrency. Talking about that, Blockchain is creating the blocks of every significant data and then chaining the blocks. So if the last block or any previous block is changed or updated then every information in the chain need to be updated. This makes blockchain technology secure and more robust compared to other technologies.&lt;/p&gt;
