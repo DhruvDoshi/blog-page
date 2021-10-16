@@ -20,9 +20,6 @@ Blockchain is freaking exciting and do have the potential to transform  all of t
 ---
 
 #### REFERENCES
-
 Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.
 
 ‌Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.
-
-‌

@@ -26,12 +26,13 @@ So how does it work? In very simple terms, the file is comprised of  blocks of d
 <br>
 <br>
  Because the whole blockchain is duplicated across many computers,  any user can view the entire blockchain in the case of public blockchains. Transactions or records are  processed not by one central administrator, but by a network of users  who work to verify the data and achieve a consensus, these verifiers are known as miners, each miner is paid some sort of cryptocurrency for successful mining. If this sounds  familiar, it’s because Bitcoin operates in the same way. In fact, Bitcoin is the first example of blockchain in action.
-<br>
-<br>
+
 </p>
 ---
 #### REFERENCES:
 
+<p style='text-align: justify;'> 
 “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
 ‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+</p>
