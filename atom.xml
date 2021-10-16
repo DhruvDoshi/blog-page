@@ -4,13 +4,40 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-10-16T20:39:15-03:00</updated>
+ <updated>2021-10-16T20:54:31-03:00</updated>
  <id>https://dhruvdoshi.github.io/blog</id>
  <author>
    <name>Dhruv Doshi</name>
    <email>dhruvdoshi25071999@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Where could be Blockchian be used ?</title>
+   <link href="https://dhruvdoshi.github.io/blog/2019/10/01/where-could-be-blockchain-used"/>
+   <updated>2019-10-01T00:00:00-03:00</updated>
+   <id>https://dhruvdoshi.github.io/blog/2019/10/01/Where-could-be-Blockchain_used</id>
+   <content type="html">&lt;p&gt;Blockchain is freaking exciting and do have the potential to transform  all of the business and how they operates, but that doesn’t mean it’s the right  solution for every scenario. Here’s why you should choose blockchain  over, say, a standard outdated Centralized database:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you want to manage and secure digital relationships or keep a decentralized, shared system of record.&lt;/strong&gt;  Anytime you want to keep a long-term, transparent record of assets (for  example, to record property or land rights ), public ally available data , blockchain could be the  ideal solution. ‘Smart contracts’, in particular, are great for  facilitating digital relationships and transactions. With a solidity smart  contract, automated payments can be released when parties in a  transaction agree that their conditions have been met.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anywhere a middleman or gatekeeper function is expensive or time-consuming.&lt;/strong&gt; For  example, major cloud services nowadys allows user to pile up the data on the severs whcih are organized by single body or corporate like Google or Amazon, these services charges immensely instead of the single data serves system we could use decentralized systems like DCS-BBN or SIA data systems which is backed by blockchain and have an ecosystems of the hosts and consumers which provides storage for the rent on lower tarrifs&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you want to record secure transactions, especially between multiple partners.&lt;/strong&gt; A  traditional database may be good for recording simple transactions  between two parties, but when things get more complicated, blockchain  can reduce bottlenecks and simplify relationships. For example, shipping  conglomerate Maersk is working with IBM to develop a private blockchain  platform to connect its various partners and customers across the  shipping industry. What’s more, the added security of a decentralised  system makes blockchain ideal for transactions in general.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Where the data is in constant flux, but you want to keep a record of past actions.&lt;/strong&gt;  Blockchain is a better, safer way to record activity and keep data  fresh, while maintaining a record of its history. The data can’t be  corrupted by anyone or accidentally deleted, and you benefit from both a  historical trail of data, plus an instantly up-to-date record&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;p&gt;Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.&lt;/p&gt;
+
+&lt;p&gt;‌Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.&lt;/p&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>What is Blockchain ?</title>
