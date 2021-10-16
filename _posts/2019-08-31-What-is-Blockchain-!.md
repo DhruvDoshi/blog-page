@@ -3,7 +3,7 @@ layout: post
 title: What is Blockchain ?
 description: What is the blockchain?
 summary: What the blockchain is 
-tags: coding
+tags: blockchain
 minute: 3
 ---
 
@@ -14,3 +14,5 @@ Blockchain is shared, immutable ledger that felicitates the process of recording
 Finally, Blockchain is growing list of records, called blocks that are linked together with cryptography which is also described as “trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains cryptographic hash of previous block and the timestamp and the transaction data in it. 
 
 ---
+REFERENCES:
+
