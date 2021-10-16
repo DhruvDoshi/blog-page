@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-10-16T20:54:31-03:00</updated>
+ <updated>2021-10-16T20:57:42-03:00</updated>
  <id>https://dhruvdoshi.github.io/blog</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -30,12 +30,9 @@
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
-
 &lt;p&gt;Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.&lt;/p&gt;
 
 &lt;p&gt;‌Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.&lt;/p&gt;
-
-&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
@@ -64,22 +61,16 @@ So how does it work? In very simple terms, the file is comprised of  blocks of d
 &lt;br /&gt;
 &lt;br /&gt;
  Because the whole blockchain is duplicated across many computers,  any user can view the entire blockchain in the case of public blockchains. Transactions or records are  processed not by one central administrator, but by a network of users  who work to verify the data and achieve a consensus, these verifiers are known as miners, each miner is paid some sort of cryptocurrency for successful mining. If this sounds  familiar, it’s because Bitcoin operates in the same way. In fact, Bitcoin is the first example of blockchain in action.
-&lt;br /&gt;
-&lt;br /&gt;
+
 &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES:&lt;/h4&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;“What Is Blockchain Technology? - IBM Blockchain&lt;/td&gt;
-      &lt;td&gt;IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt; 
+“What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
-&lt;p&gt;‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
+‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+&lt;/p&gt;
 </content>
  </entry>
  
