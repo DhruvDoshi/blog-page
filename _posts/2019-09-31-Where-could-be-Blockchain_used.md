@@ -25,7 +25,7 @@ Blockchain is freaking exciting and do have the potential to transform  all of t
 <br>
 
 **Where the data is in constant flux, but you want to keep a record of past actions.**  Blockchain is a better, safer way to record activity and keep data  fresh, while maintaining a record of its history. The data can’t be  corrupted by anyone or accidentally deleted, and you benefit from both a  historical trail of data, plus an instantly up-to-date record 
-
+</p>
 ---
 
 #### REFERENCES
