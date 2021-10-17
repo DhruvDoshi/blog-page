@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-10-17T10:19:53-03:00</updated>
+ <updated>2021-10-17T11:04:29-03:00</updated>
  <id>https://dhruvdoshi.github.io/blog</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -20,11 +20,14 @@
    <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt; 
 
 Blockchain technology is distributed ledger with records of data containing all details of the transaction carried out and distributed among the nodes present in the network. All the transactions carried out previously are saved and then they are reflected in the next upcoming block hash. Hence it is an intangible and immutable data structure at the basic end.
-
+&lt;br /&gt;
+&lt;br /&gt;
 Cloud computing is well-defined technology that emerged from large-scale distributed computing technology. Cloud computing helps to reduce the burden on the resources and lets the user use the optimum resources for redundant work. Organizations like Google or Microsoft have large data servers and then the employees could get the required resources out of it. This helps the organization to have the flexibility of resources according to the projects. 
-
+&lt;br /&gt;
+&lt;br /&gt;
 There are some evident issues in cloud computing which are Data Security, Data Management, Interoperability etc. By having the Blockchain concept with the cloud we could solve all of the issues or technical bottlenecks which we are facing at the moment with cloud computing. Blockchain technology is an emerging technology well known for its security and authenticity, which are the main characteristics that are making the world turn to its side. By integrating blockchain with cloud computing, there will be many advantages in usability, trust, security, scalability, data management, and many other advantages.
-
+&lt;br /&gt;
+&lt;br /&gt;
 There are several projects and Ideas which are working progressively in this direction, those are added in the references.
 
 &lt;/p&gt;
@@ -114,6 +117,8 @@ So how does it work? In very simple terms, the file consists of blocks of data, 
 &lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES:&lt;/h4&gt;
 
 &lt;p style=&quot;text-align: justify;&quot;&gt; 
