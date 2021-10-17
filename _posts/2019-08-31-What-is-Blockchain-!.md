@@ -33,6 +33,6 @@ So how does it work? In very simple terms, the file is comprised of  blocks of d
 
 <p style='text-align: justify;'> 
 “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
-
+<br><br>
 ‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
 </p>
