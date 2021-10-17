@@ -30,6 +30,8 @@ So how does it work? In very simple terms, the file consists of blocks of data, 
 </p>
 
 ---
+
+<br>
 #### REFERENCES:
 
 <p style='text-align: justify;'> 
