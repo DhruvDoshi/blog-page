@@ -7,16 +7,12 @@ tags: blockchain
 minute: 4
 ---
 <p style='text-align: justify;'> 
-
-<br>
-<br>
-
 Here’s a great article about it on BlockGeeks:
 <br>
 <br>
 **1. There is no customer protection on the blockchain** Blockchain  technology operates as a push-based settlement system. This means the  individual holds power over the resource they want to verify on the  blockchain. This could be in cryptos, certificate authentication, land  titles, etc. The problem with this is if a transaction goes sour after  it has already been verified on the blockchain, the only feasible way of  returning the transaction is if the parties agree to reverse it. Using a  centralized system like a bank. However, there is a procedure in place  to be able to dispute trades after they are complete.Some  trade technologies that settle on a blockchain have used an arbiter  system to fix this problem, an example of this is the Open Bazaar P2P  trade network. This way a trade occurs between two people, and one  impartial moderator.
 
-![Customer Protection Issues](C4161FD8268BF97F.png)
+![Customer Protection Issues](img/C4161FD8268BF97F.png)
 
 <br>
 <br>
