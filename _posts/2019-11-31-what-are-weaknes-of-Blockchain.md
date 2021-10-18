@@ -6,6 +6,8 @@ summary: THis article consist of the backdraws of the blockchian technology. Mai
 tags: blockchain
 minute: 4
 ---
+<p style='text-align: justify;'> 
+
 <br>
 <br>
 
@@ -34,9 +36,14 @@ Here’s a great article about it on BlockGeeks:
 
 <br>
 <br>
+</p>
+
 ---
 
 #### REFERENCES
 
+<p style='text-align: justify;'> 
+
 “5 Weak Points Of Blockchain Technology,” Blockgeeks, 13-Jan-2017. [Online]. Available: https://blockgeeks.com/public-blockchain/. [Accessed: 18-Oct-2021]
 ‌
+</p>
