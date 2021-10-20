@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://dhruvdoshi.github.io/blog//sitemap.xml
+Sitemap: https://dhruvdoshi.github.io/sitemap.xml

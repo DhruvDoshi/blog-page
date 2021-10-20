@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Dhruv Doshi</title>
- <link href="https://dhruvdoshi.github.io/blog//atom.xml" rel="self"/>
- <link href="https://dhruvdoshi.github.io/blog//"/>
- <updated>2021-10-17T21:13:28-03:00</updated>
- <id>https://dhruvdoshi.github.io/blog/</id>
+ <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
+ <link href="https://dhruvdoshi.github.io/blog/"/>
+ <updated>2021-10-20T12:33:42-03:00</updated>
+ <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
    <email>dhruvdoshi25071999@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>What are weakness of Blockchain??(Everything isn't perferct!!)</title>
-   <link href="https://dhruvdoshi.github.io/blog//2019/12/01/what-are-weaknes-of-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog/2019/12/01/what-are-weaknes-of-blockchain"/>
    <updated>2019-12-01T00:00:00-04:00</updated>
-   <id>https://dhruvdoshi.github.io/blog//2019/12/01/what-are-weaknes-of-Blockchain</id>
+   <id>https://dhruvdoshi.github.io/2019/12/01/what-are-weaknes-of-Blockchain</id>
    <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt; 
 Here’s a great article about it on BlockGeeks:
 &lt;br /&gt;
@@ -59,9 +59,9 @@ Here’s a great article about it on BlockGeeks:
  
  <entry>
    <title>What if we combine Blockchain and Cloud Computing ?</title>
-   <link href="https://dhruvdoshi.github.io/blog//2019/10/31/what-if-we-combine-blockchain-and-cloud"/>
+   <link href="https://dhruvdoshi.github.io/blog/2019/10/31/what-if-we-combine-blockchain-and-cloud"/>
    <updated>2019-10-31T00:00:00-03:00</updated>
-   <id>https://dhruvdoshi.github.io/blog//2019/10/31/What-if-we-combine-blockchain-and-cloud</id>
+   <id>https://dhruvdoshi.github.io/2019/10/31/What-if-we-combine-blockchain-and-cloud</id>
    <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt; 
 
 Blockchain technology is distributed ledger with records of data containing all details of the transaction carried out and distributed among the nodes present in the network. All the transactions carried out previously are saved and then they are reflected in the next upcoming block hash. Hence it is an intangible and immutable data structure at the basic end.
@@ -95,9 +95,9 @@ Anna, “Blockchain vs Cloud Computing: Best Features for Corporate Space,” Gb
  
  <entry>
    <title>Where could be Blockchian be used ?</title>
-   <link href="https://dhruvdoshi.github.io/blog//2019/10/01/where-could-be-blockchain-used"/>
+   <link href="https://dhruvdoshi.github.io/blog/2019/10/01/where-could-be-blockchain-used"/>
    <updated>2019-10-01T00:00:00-03:00</updated>
-   <id>https://dhruvdoshi.github.io/blog//2019/10/01/Where-could-be-Blockchain_used</id>
+   <id>https://dhruvdoshi.github.io/2019/10/01/Where-could-be-Blockchain_used</id>
    <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt; 
 
 Blockchain is freaking exciting and does have the potential to transform all of the business and how it operates, but that doesn’t mean it’s the right solution for every scenario. Here’s why you should choose blockchain  over, say, a standard outdated Centralized database:
@@ -135,9 +135,9 @@ Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockc
  
  <entry>
    <title>What is Blockchain ?</title>
-   <link href="https://dhruvdoshi.github.io/blog//2019/08/31/what-is-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain"/>
    <updated>2019-08-31T00:00:00-03:00</updated>
-   <id>https://dhruvdoshi.github.io/blog//2019/08/31/What-is-Blockchain-!</id>
+   <id>https://dhruvdoshi.github.io/2019/08/31/What-is-Blockchain-!</id>
    <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt; 
 
 Blockchain is the technology that allows the user to create a decentralized system of transaction and data transfers. Saying more on, for the naïve person it is a method to create a people’s bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is creating the blocks of every significant data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.
