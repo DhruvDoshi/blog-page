@@ -22,6 +22,7 @@ minute: 4
 ---
 
 <br>
+
 #### REFERENCES
 
 Blaetti, Robert. “5 Weak Points of Blockchain Technology.” Blockgeeks, 13 Jan. 2017, blockgeeks.com/public-blockchain/.
