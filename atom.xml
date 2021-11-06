@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-11-06T19:17:04-03:00</updated>
+ <updated>2021-11-06T19:44:28-03:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -32,6 +32,7 @@
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
 
 &lt;p&gt;Blaetti, Robert. “5 Weak Points of Blockchain Technology.” Blockgeeks, 13 Jan. 2017, blockgeeks.com/public-blockchain/.&lt;/p&gt;
@@ -45,33 +46,27 @@
    <link href="https://dhruvdoshi.github.io/blog/2019/10/31/what-if-we-combine-blockchain-and-cloud"/>
    <updated>2019-10-31T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/10/31/What-if-we-combine-blockchain-and-cloud</id>
-   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt; 
+   <content type="html">&lt;p&gt;Blockchain technology is distributed ledger with records of data containing all details of the transaction carried out and distributed among the nodes present in the network. All the transactions carried out previously are &lt;strong&gt;saved and then they are reflected&lt;/strong&gt; in the next upcoming block hash. Hence it is an &lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;intangible and immutable&lt;/span&gt;&lt;/b&gt; data structure at the basic end.&lt;/p&gt;
 
-Blockchain technology is distributed ledger with records of data containing all details of the transaction carried out and distributed among the nodes present in the network. All the transactions carried out previously are saved and then they are reflected in the next upcoming block hash. Hence it is an intangible and immutable data structure at the basic end.
-&lt;br /&gt;
-&lt;br /&gt;
-Cloud computing is well-defined technology that emerged from large-scale distributed computing technology. Cloud computing helps to reduce the burden on the resources and lets the user use the optimum resources for redundant work. Organizations like Google or Microsoft have large data servers and then the employees could get the required resources out of it. This helps the organization to have the flexibility of resources according to the projects. 
-&lt;br /&gt;
-&lt;br /&gt;
-There are some evident issues in cloud computing which are Data Security, Data Management, Interoperability etc. By having the Blockchain concept with the cloud we could solve all of the issues or technical bottlenecks which we are facing at the moment with cloud computing. Blockchain technology is an emerging technology well known for its security and authenticity, which are the main characteristics that are making the world turn to its side. By integrating blockchain with cloud computing, there will be many advantages in usability, trust, security, scalability, data management, and many other advantages.
-&lt;br /&gt;
-&lt;br /&gt;
-There are several projects and Ideas which are working progressively in this direction, those are added in the references.
+&lt;p&gt;Cloud computing is well-defined technology that emerged from &lt;strong&gt;large-scale distributed computing technology&lt;/strong&gt;. Cloud computing helps to reduce the burden on the resources and lets the user use the optimum resources for redundant work. Organizations like Google or Microsoft have large data servers and then the employees could get the required resources out of it. This helps the organization to have the flexibility of resources according to the projects.&lt;/p&gt;
 
-&lt;/p&gt;
+&lt;p&gt;There are some evident issues in cloud computing which are Data Security, Data Management, Interoperability etc. By having the Blockchain concept with the cloud we could solve all of the issues or &lt;strong&gt;technical bottlenecks&lt;/strong&gt; which we are facing at the moment with cloud computing. Blockchain technology is an emerging technology well known for its &lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;security and authenticity&lt;/span&gt;&lt;/b&gt;, which are the main characteristics that are making the world turn to its side. By integrating blockchain with cloud computing, there will be many advantages in usability, trust, security, scalability, data management, and many other advantages.&lt;/p&gt;
+
+&lt;p&gt;There are several projects and Ideas which are working progressively in this direction, those are added in the references.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
 
-&lt;p style=&quot;text-align: justify;&quot;&gt; 
+&lt;p&gt;C. V. N. U. B. Murthy, M. L. Shri, S. Kadry and S. Lim, “Blockchain Based Cloud Computing: Architecture and Research Challenges,” in IEEE Access, vol. 8, pp. 205190-205205, 2020, doi: 10.1109/ACCESS.2020.3036812.&lt;/p&gt;
 
-C. V. N. U. B. Murthy, M. L. Shri, S. Kadry and S. Lim, &quot;Blockchain Based Cloud Computing: Architecture and Research Challenges,&quot; in IEEE Access, vol. 8, pp. 205190-205205, 2020, doi: 10.1109/ACCESS.2020.3036812.
-&lt;br /&gt;
-&lt;br /&gt;
-Nate Nead, “Blockchain’s Next Frontier: Cloud Computing?,” InvestmentBank.com, 09-Jun-2018. [Online]. Available: https://investmentbank.com/blockchain-cloud-computing/. [Accessed: 17-Oct-2021]
-‌&lt;br /&gt;
-&lt;br /&gt;
-Anna, “Blockchain vs Cloud Computing: Best Features for Corporate Space,” Gbksoft.com, 05-May-2021. [Online]. Available: https://gbksoft.com/blog/blockchain-vs-cloud-best-features-for-corporate-space/. [Accessed: 17-Oct-2021]
+&lt;p&gt;Nate Nead, “Blockchain’s Next Frontier: Cloud Computing?,” InvestmentBank.com, 09-Jun-2018. [Online]. Available: https://investmentbank.com/blockchain-cloud-computing/. [Accessed: 17-Oct-2021]&lt;/p&gt;
+
+&lt;p&gt;Anna, “Blockchain vs Cloud Computing: Best Features for Corporate Space,” Gbksoft.com, 05-May-2021. [Online]. Available: https://gbksoft.com/blog/blockchain-vs-cloud-best-features-for-corporate-space/. [Accessed: 17-Oct-2021]
 ‌&lt;/p&gt;
 </content>
  </entry>
@@ -81,38 +76,23 @@ Anna, “Blockchain vs Cloud Computing: Best Features for Corporate Space,” Gb
    <link href="https://dhruvdoshi.github.io/blog/2019/10/01/where-could-be-blockchain-used"/>
    <updated>2019-10-01T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/10/01/Where-could-be-Blockchain_used</id>
-   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt; 
+   <content type="html">&lt;p&gt;Blockchain is freaking exciting and does have the potential to transform all of the business and how it operates, but that doesn’t mean it’s the right solution for every scenario. Here’s why you should choose blockchain  over, say, a standard outdated Centralized database:&lt;/p&gt;
 
-Blockchain is freaking exciting and does have the potential to transform all of the business and how it operates, but that doesn’t mean it’s the right solution for every scenario. Here’s why you should choose blockchain  over, say, a standard outdated Centralized database:
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;When you want to manage and secure digital relationships or keep a decentralized, shared system of record.&lt;/span&gt;&lt;/b&gt; Anytime you want to keep a long-term, transparent record of assets (for example, to record property or land rights ), publically available data, blockchain could be the ideal solution. Smart contracts, in particular, are great for facilitating digital relationships and transactions. With a solidity smart contract, automated payments can be released when parties in a  transaction agree that their conditions have been met.&lt;/p&gt;
 
-**When you want to manage and secure digital relationships or keep a decentralized, shared system of record.**  Anytime you want to keep a long-term, transparent record of assets (for example, to record property or land rights ), publically available data, blockchain could be the ideal solution. Smart contracts, in particular, are great for facilitating digital relationships and transactions. With a solidity smart contract, automated payments can be released when parties in a  transaction agree that their conditions have been met.
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;Anywhere a middleman or gatekeeper function is expensive or time-consuming.&lt;/span&gt;&lt;/b&gt; For  example, major cloud services nowadays allows user to pile up the data on the servers which are organized by a single body or corporate like Google or Amazon, these services charges immensely instead of the single data serves system we could use decentralized systems like DCS-BBN or SIA data systems which are backed by the blockchain and have an ecosystem of the hosts and consumers which provides storage for the rent on lower tariffs&lt;/p&gt;
 
-**Anywhere a middleman or gatekeeper function is expensive or time-consuming.** For  example, major cloud services nowadays allows user to pile up the data on the servers which are organized by a single body or corporate like Google or Amazon, these services charges immensely instead of the single data serves system we could use decentralized systems like DCS-BBN or SIA data systems which are backed by the blockchain and have an ecosystem of the hosts and consumers which provides storage for the rent on lower tariffs
-&lt;br /&gt;
-&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;When you want to record secure transactions, especially between multiple partners.&lt;/span&gt;&lt;/b&gt; A  traditional database may be good for recording simple transactions between two parties, but when things get more complicated, blockchain can reduce bottlenecks and simplify relationships. For example, shipping conglomerate Maersk is working with IBM to develop a private blockchain platform to connect its various partners and customers across the shipping industry. What’s more, the added security of a decentralized system makes blockchain ideal for transactions in general.&lt;/p&gt;
 
-**When you want to record secure transactions, especially between multiple partners.** A  traditional database may be good for recording simple transactions between two parties, but when things get more complicated, blockchain can reduce bottlenecks and simplify relationships. For example, shipping conglomerate Maersk is working with IBM to develop a private blockchain platform to connect its various partners and customers across the shipping industry. What’s more, the added security of a decentralized system makes blockchain ideal for transactions in general.
-&lt;br /&gt;
-&lt;br /&gt;
-
-**Where the data is in constant flux, but you want to keep a record of past actions.**  Blockchain is a better, safer way to record the activity and keep data fresh while maintaining a record of its history. The data can’t be  corrupted by anyone or accidentally deleted, and you benefit from both a  historical trail of data, plus an instantly up-to-date record 
-&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;Where the data is in constant flux, but you want to keep a record of past actions.&lt;/span&gt;&lt;/b&gt;  Blockchain is a better, safer way to record the activity and keep data fresh while maintaining a record of its history. The data can’t be  corrupted by anyone or accidentally deleted, and you benefit from both a  historical trail of data, plus an instantly up-to-date record&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
 
-&lt;p style=&quot;text-align: justify;&quot;&gt; 
+&lt;p&gt;Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.&lt;/p&gt;
 
-Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.
-&lt;br /&gt;
-&lt;br /&gt;
-‌Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.
-&lt;/p&gt;
+&lt;p&gt;‌Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockchain Technology, Cryptocurrency, Bitcoins, ICO, Bitcoin, Blockchain Basics, Learning Zone, Crypto Bank, 22 Feb. 2021, bitsnblocks.co/why-blockchain-makes-the-difference/.&lt;/p&gt;
 </content>
  </entry>
  
@@ -121,39 +101,34 @@ Benjamin, Neeraj. “Why Blockchain Makes the Difference?” BitsNBlocks, Blockc
    <link href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain"/>
    <updated>2019-08-31T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/08/31/What-is-Blockchain-!</id>
-   <content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt; 
+   <content type="html">&lt;p&gt;Blockchain is the technology that allows the user to &lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;create a decentralized system of transaction and data transfers&lt;/span&gt;&lt;/b&gt;. For the naïve person, it is a method to create a people’s bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.&lt;/p&gt;
 
-Blockchain is the technology that allows the user to create a decentralized system of transaction and data transfers. For the naïve person, it is a method to create a people's bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.
-&lt;br /&gt;
-&lt;br /&gt;
-Blockchain is a shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.
-&lt;br /&gt;
-&lt;br /&gt;
-Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as &quot;trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a cryptographic hash of the previous block and the timestamp, and the transaction data. 
-&lt;br /&gt;
-&lt;br /&gt;
-But first, let's get back to basics. What is Blockchain, and how does it work?
+&lt;p&gt;Blockchain is a &lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network&lt;/span&gt;&lt;/b&gt;. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.&lt;/p&gt;
 
-A blockchain is a file for storing data. Or, to put it in more technical terms, it's an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.
-&lt;br /&gt;
-&lt;br /&gt;
-So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name &quot;blockchain.&quot; As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.
-&lt;br /&gt;
-&lt;br /&gt;
- Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it's because Bitcoin operates in the same way. Bitcoin is the first example of Blockchain in action.
+&lt;p&gt;Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as “trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a &lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;cryptographic hash of the previous block and the timestamp&lt;/span&gt;&lt;/b&gt;, and the transaction data.&lt;/p&gt;
 
-&lt;/p&gt;
+&lt;p&gt;But first, let’s get back to basics. What is Blockchain, and how does it work?&lt;/p&gt;
+
+&lt;p&gt;A blockchain is a file for storing data. Or, to put it in more technical terms, it’s an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.&lt;/p&gt;
+
+&lt;p&gt;So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name &lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;“blockchain.”&lt;/span&gt;&lt;/b&gt; As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.&lt;/p&gt;
+
+&lt;p&gt;Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it’s because Bitcoin operates in the same way. &lt;b&gt;&lt;span style=&quot;color:#0d3b66&quot;&gt;Bitcoin&lt;/span&gt;&lt;/b&gt; is the first example of Blockchain in action.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES:&lt;/h4&gt;
 
-&lt;p style=&quot;text-align: justify;&quot;&gt; 
-“What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
-&lt;br /&gt;&lt;br /&gt;
-‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
-&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;“What Is Blockchain Technology? - IBM Blockchain&lt;/td&gt;
+      &lt;td&gt;IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
 </content>
  </entry>
  
