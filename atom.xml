@@ -4,13 +4,54 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-11-07T14:50:08-04:00</updated>
+ <updated>2021-11-07T15:13:25-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
    <email>dhruvdoshi25071999@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title></title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/11/07/2021-11-07-how-blockchain-could-distupt-banking"/>
+   <updated>2021-11-07T15:13:25-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/11/07/2021-11-07-How-Blockchain_Could_Distupt-Banking-?</id>
+   <content type="html">&lt;p&gt;In todays day and age banks are the most important key point in the whole finance ecosystem where they  serve as the critical storehouses and transfer hubs of value. Now with the induction of Blockchain in this domain the role of banks in transaction and the value of fiat currency is going down day by day hence there could be a scenario where blockchain could propose a big threat to large institutions like, JP Morgan and Credit Suisse. 
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-makes-blockchain-so-disruptive-for-banks-b&quot;&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What makes blockchain (so) disruptive for banks? &amp;lt;/b&amp;gt;&lt;/span&gt;&lt;br /&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The answer to this question lies in the three specific in-build properties of a blockchain: Decentralized, distributed and Immutability. These differ completely from those of banks that are centralised organisations.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Decentalized Network &amp;lt;/b&amp;gt;&lt;/span&gt; &lt;br /&gt; Blockchain operates on a decentralized network, that is acting on a peer-to-peer basis. It handles all operations similar to a bank, but without any central authority that monitors all data. So it potentially cuts out the middleman, giving back the power to the owner of the assets (i.e. data or tokens carrying some financial value).All information is stored across its network via blocks. These blocks, that are time-stamped and linked together with all past and current transactions, are permanently recorded and consistently reconciled and updated in a cryptographically secure way. By storing data across its network, blockchain eliminates the risks that come with data being held centrally.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Distributed Ledger &amp;lt;&amp;gt;&lt;/span&gt; &lt;br /&gt;A second property of blockchain is the distributed ledger, that allows sharing of a ledger of activity - such as arbitrary data or virtually anything of value between multiple parties. What makes blockchain so important is its ability to automate trust and transparency among all parties using it. Because the ledger is distributed among all transaction participants, it exists simultaneously in multiple places. Each of the computers in the distributed network maintains a copy of the ledger to ensure transparency and also prevent a single point of failure and all copies are updated and validated simultaneously. This makes it extremely difficult to manipulate entries or tamper with the data without the other parties noticing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Immutable Records &amp;lt;/b&amp;gt;&lt;/span&gt; &lt;br /&gt; A third unique property is its immutability. By design, blockchains are inherently resistant to modification of data. All blockchain networks adhere to a certain protocol for validating new blocks. No changes can be made once the system is set with the initial standards. Once recorded, the data in any given block cannot be altered without the alteration of all the subsequent blocks, which requires the consensus of the network majority.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;where-will-be-blockchain-hit-on-the-banks--b&quot;&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Where will be blockchain hit on the Banks ?? &amp;lt;/b&amp;gt;&lt;/span&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Though blockchain is said to have impact on virtually every aspect of the financial system, most disruptive use cases can be found in activities such as cross border payments and remittances, share trading, clearing and settlement, trade finance and supply chain finance, regulatory reporting and compliance, as well as smart contracts. It is however clear that when the technology further evolves there will be many more areas for applying the blockchain technologies emerging.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Cross border payments&lt;/span&gt;&lt;/b&gt; It is not surprising that payments is emerging as the first and foremost blockchain use case of any banking and/or financial system. Nowadays payments across borders is a time-consuming and expensive process, given the need of correspondent banks or other intermediaries. .&lt;/p&gt;
+
+    &lt;p&gt;Blockchain offers an easy and secure solution, as it will not require third party authorization. . By cutting out many of the traditional middlemen, the laborious and costly process of cross border payments is simplified, thus significantly speeding up the cross-border payment process and that at a cost much less than with the traditional banking systems.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>What are weakness of Blockchain??(Everything isn't perferct!!)</title>
