@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-11-07T18:05:23-04:00</updated>
+ <updated>2021-11-07T18:22:22-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -596,23 +596,50 @@ Though blockchain is said to have impact on virtually every aspect of the financ
  </entry>
  
  <entry>
-   <title>What is Blockchain?</title>
+   <title>What is Nodes in Blockchain?</title>
    <link href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain"/>
    <updated>2019-09-01T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/01/What-is-Nodes-in-Blockchain-?</id>
-   <content type="html">&lt;p&gt;Blockchain is the technology that allows the user to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;create a decentralized system of transaction and data transfers&lt;/span&gt;&lt;/b&gt;. For the naïve person, it is a method to create a people’s bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A Node is a part of cryptocurrency that is needed to make most of the popular tokens like Bitcoin or Dogecoin function. It’s a fundamental part of the blockchain network, which is the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;decentralised ledger that is used to maintain a cryptocurrency.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Blockchain is a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network&lt;/span&gt;&lt;/b&gt;. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.&lt;/p&gt;
+&lt;p&gt;The explanation can vary depending on the protocol. For example, a resident network may comprise a file server, three laptops and a fax machine. In this case, the network has five nodes, each equipped with a unique MAC address to identify them.&lt;/p&gt;
 
-&lt;p&gt;Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as “trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;cryptographic hash of the previous block and the timestamp&lt;/span&gt;&lt;/b&gt;, and the transaction data.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What is a node in blockchain?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+The term &lt;em&gt;“node”&lt;/em&gt; is being used mostly in relation to blockchain, a decentralised digital ledger that records all cryptocurrency transactions and &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;makes the information available to everyone via a connected device.&lt;/span&gt;&lt;/b&gt; What this means is every transaction has to be chronologically recorded and distributed to a series of connected devices. These devices are called nodes. These nodes communicate with each other within the network and transfer information about transactions and new blocks.&lt;/p&gt;
 
-&lt;p&gt;But first, let’s get back to basics. What is Blockchain, and how does it work?&lt;/p&gt;
+&lt;p&gt;It is a critical component of the blockchain infrastructure. It helps maintain the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;security and integrity of the network.&lt;/span&gt;&lt;/b&gt; A blockchain node’s main purpose is to verify each batch of network transactions, called blocks. Each node is distinguished from others by a unique identifier.&lt;/p&gt;
 
-&lt;p&gt;A blockchain is a file for storing data. Or, to put it in more technical terms, it’s an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What do nodes do?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+When a miner attempts to add a new block of transactions to the blockchain, it broadcasts the block to all the nodes on the network. Based on the block’s legitimacy (validity of signature and transactions), &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;nodes can accept or reject the block.&lt;/span&gt;&lt;/b&gt; When a node accepts a new block of transactions, it saves and stores it on top of the rest of the blocks it already has stored. In short, here is what nodes do:&lt;/p&gt;
 
-&lt;p&gt;So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;“blockchain.”&lt;/span&gt;&lt;/b&gt; As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Nodes check if a block of transactions is valid and accept or reject it.&lt;/li&gt;
+  &lt;li&gt;Nodes save and store blocks of transactions (storing blockchain transaction history).&lt;/li&gt;
+  &lt;li&gt;Nodes broadcast and spread this transaction history to other nodes that may need to synchronize with the blockchain (need to be updated on transaction history).&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it’s because Bitcoin operates in the same way. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Bitcoin&lt;/span&gt;&lt;/b&gt; is the first example of Blockchain in action.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What are the types of nodes?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+There are basically two types of nodes: &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;full nodes and lightweight nodes.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Full nodes support and provide security&lt;/span&gt;&lt;/b&gt; to the network. These nodes download a blockchain’s entire history to observe and enforce its rules.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Each user in the network is a lightweight node.&lt;/span&gt;&lt;/b&gt; The lightweight node has to connect to a full node to be able to participate.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Many volunteers run full Bitcoin nodes in a bid to help the Bitcoin ecosystem. As of now, there are roughly &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;12,130 public nodes&lt;/span&gt;&lt;/b&gt; running on the Bitcoin network. Other than the public nodes, there are many hidden nodes (non-listening nodes). These nodes usually run behind a firewall.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Miners’ nodes&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+There is also a third type of node: Miner nodes. The term “Bitcoin miners” has now become familiar. These miners are classified as nodes. miner may work alone (solo miner) or in groups (pool miner). A solo miner uses his own full node. In a mining pool, only the administrator can run a full node — which can be referred to as a pool miner’s full node.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;The difference between a miner and a node&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+A miner always needs to run a full node in order to select valid transactions to form a new block. Without a full node it cannot determine what proposed transactions are valid according to the current blockchain’s transaction history (aka if all balances involved in the transactions are sufficient enough to perform the proposed transactions), because it does not have access to the full blockchain history. Therefore, a miner is always also a full node. A node however, is not necessarily simultaneously a miner. A device can run a full node by receiving, storing and broadcasting all transaction data (much like a server) without actually creating new blocks of transactions itself. In this case it functions more like a pass point with a directory, whereas a miner is the same but simultaneously tries to create new blocks of transactions as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Listening nodes (supernodes)&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+And finally, a sub-category called listening nodes. A listening node, essentially, is a publicly visible full node. It communicates with any node that decides to establish a connection with it. A reliable super node typically runs all the time, transmitting blockchain history and transaction data to multiple nodes.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -628,6 +655,10 @@ Though blockchain is said to have impact on virtually every aspect of the financ
 &lt;/table&gt;
 
 &lt;p&gt;‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
+
+&lt;p&gt;“What Is a Blockchain Node and How Is It Used in Cryptocurrency?” NDTV Gadgets 360, gadgets.ndtv.com/cryptocurrency/features/what-is-a-blockchain-node-how-does-cryptocurrency-work-2515427.&lt;/p&gt;
+
+&lt;p&gt;Jimi S. “Blockchain: What Are Nodes and Masternodes?” Medium, Coinmonks, 5 Sept. 2018, medium.com/coinmonks/blockchain-what-is-a-node-or-masternode-and-what-does-it-do-4d9a4200938f.&lt;/p&gt;
 </content>
  </entry>
  
