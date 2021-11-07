@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-11-07T18:22:22-04:00</updated>
+ <updated>2021-11-07T18:24:54-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -645,20 +645,25 @@ And finally, a sub-category called listening nodes. A listening node, essentiall
 
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES:&lt;/h4&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;“What Is Blockchain Technology? - IBM Blockchain&lt;/td&gt;
-      &lt;td&gt;IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
-
-&lt;p&gt;“What Is a Blockchain Node and How Is It Used in Cryptocurrency?” NDTV Gadgets 360, gadgets.ndtv.com/cryptocurrency/features/what-is-a-blockchain-node-how-does-cryptocurrency-work-2515427.&lt;/p&gt;
-
-&lt;p&gt;Jimi S. “Blockchain: What Are Nodes and Masternodes?” Medium, Coinmonks, 5 Sept. 2018, medium.com/coinmonks/blockchain-what-is-a-node-or-masternode-and-what-does-it-do-4d9a4200938f.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;“What Is Blockchain Technology? - IBM Blockchain&lt;/td&gt;
+          &lt;td&gt;IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“What Is a Blockchain Node and How Is It Used in Cryptocurrency?” NDTV Gadgets 360, gadgets.ndtv.com/cryptocurrency/features/what-is-a-blockchain-node-how-does-cryptocurrency-work-2515427.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jimi S. “Blockchain: What Are Nodes and Masternodes?” Medium, Coinmonks, 5 Sept. 2018, medium.com/coinmonks/blockchain-what-is-a-node-or-masternode-and-what-does-it-do-4d9a4200938f.&lt;/li&gt;
+&lt;/ol&gt;
 </content>
  </entry>
  
