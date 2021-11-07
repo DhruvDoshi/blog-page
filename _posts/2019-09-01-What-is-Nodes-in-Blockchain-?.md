@@ -46,10 +46,10 @@ And finally, a sub-category called listening nodes. A listening node, essentiall
 
 #### REFERENCES:
 
-“What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
+1. “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
-‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+2. Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
 
-“What Is a Blockchain Node and How Is It Used in Cryptocurrency?” NDTV Gadgets 360, gadgets.ndtv.com/cryptocurrency/features/what-is-a-blockchain-node-how-does-cryptocurrency-work-2515427.
+3. “What Is a Blockchain Node and How Is It Used in Cryptocurrency?” NDTV Gadgets 360, gadgets.ndtv.com/cryptocurrency/features/what-is-a-blockchain-node-how-does-cryptocurrency-work-2515427.
 
-Jimi S. “Blockchain: What Are Nodes and Masternodes?” Medium, Coinmonks, 5 Sept. 2018, medium.com/coinmonks/blockchain-what-is-a-node-or-masternode-and-what-does-it-do-4d9a4200938f.
+4. Jimi S. “Blockchain: What Are Nodes and Masternodes?” Medium, Coinmonks, 5 Sept. 2018, medium.com/coinmonks/blockchain-what-is-a-node-or-masternode-and-what-does-it-do-4d9a4200938f.
