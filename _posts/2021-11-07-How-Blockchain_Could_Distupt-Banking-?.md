@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How Blockchain Could Distrupt Banking Industry?
-description: This blog cointains the details which delas with the results of using the blockchian technology in the banking industry. There are many references included in the 
-blog which are from one of the top most financial institutions like JP Morgan and Chase.
+description: This blog cointains the details which delas with the results of using the blockchian technology in the banking industry. There are many references included in the blog which are from one of the top most financial institutions like JP Morgan and Chase.
 summary: After induction of blockchain technology in finance sector the main question which prompts is, wether benks would be able to continue their dominance or there would be ascenario where the banks would collapse and would not be able to survive this hit. 
 tags: blockchain
 minute: 15
