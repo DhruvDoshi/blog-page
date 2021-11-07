@@ -1,31 +1,60 @@
 ---
 layout: post
-title: What is Blockchain?
-description: What is the Blockchain?
-summary: The blog summarises the information regarding the Blockchain. 
+title: What is Mining of Block in Blockchian and Cryptocurrency?
+description: 
+summary: 
 tags: blockchain
-minute: 3
+minute: 7
 ---
 
-Blockchain is the technology that allows the user to <b><span style="color:green">create a decentralized system of transaction and data transfers</span></b>. For the naïve person, it is a method to create a people's bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.
+<b><span style="color:green">What exactly is Blockchain mining?</span></b><br>
+A peer-to-peer computer process, <b><span style="color:green">Blockchain mining is used to secure and verify Cryptocurrency transactions.</span></b> Mining involves Blockchain miners who add cryptcurrenies transaction data to cryptcurrenies global public ledger of past transactions. In the ledgers, blocks are secured by Blockchain miners and are connected to each other forming a chain.
 
-Blockchain is a <b><span style="color:green">shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network</span></b>. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.
+When we talk in depth, as opposed to traditional financial services systems, Bitcoins have no central clearing house. Bitcoin transactions are generally verified in <b><span style="color:green">decentralized clearing systems wherein people contribute computing resources to verify the same.</span></b> This process of verifying transactions in called mining. It is probably referred to as mining as it is analogous to mining of commodities like gold—mining gold requires a lot of effort and resources, but then there is a limited supply of gold; hence, the amount of gold which is mined every year remains roughly the same. In the same manner, <b><span style="color:green">a lot of computing power is consumed in the process of mining bitcoins.</span></b> The number of bitcoins that are generated from mining dwindles over time. In words of Satoshi Nakamato, there’s a limited supply of bitcoins—only 21 million bitcoins will ever be created.
 
-Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as "trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a <b><span style="color:green">cryptographic hash of the previous block and the timestamp</span></b>, and the transaction data. 
+At its core, the term ‘Blockchain mining’ is used to describe the process of adding transaction records to the bitcoin blockchain. This process of adding blocks to the blockchain is how transactions are processed and how money moves around securely on Bitcoins. This process of Blockchain mining is performed by a community of people around the world called ‘Blockchain miners.'
 
-But first, let's get back to basics. What is Blockchain, and how does it work?
+Anyone can apply to become a Blockchain miner. These Blockchain miners install and run a <b><span style="color:green">special Blockchain mining software that enables their computers to communicate securely with one another.</span></b> Once a computer installs the software, joins the network and begins mining bitcoins, it becomes what is called a *<a href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain">‘node.’</a>* Together, all these nodes communicate with one another and process transactions to add new blocks to the blockchain which is commonly known as the bitcoin network. This bitcoin network runs throughout the day. It processes equivalent to millions of dollars in bitcoin transactions and has never been hacked or experienced a downtime since its launch in 2009.
 
-A blockchain is a file for storing data. Or, to put it in more technical terms, it's an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.
+<b><span style="color:green">Types of Mining</span></b><br>
+There are mainly three disting types of mining refereed to cryptocurrencies
+<br><br><b><span style="color:green">1. Individual Mining </span></b><br>
+When mining is done by an individual, user registration as a miner is necessary. As soon as a transaction takes place, a mathematical problem is given to all the single users in the blockchain network to solve. The first one to solve it gets rewarded.
 
-So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name <b><span style="color:green">"blockchain."</span></b> As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.
+Once the solution is found, all the other miners in the blockchain network will validate the decrypted value and then add it to the blockchain. Thus, verifying the transaction.
 
-Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it's because Bitcoin operates in the same way. <b><span style="color:green">Bitcoin</span></b> is the first example of Blockchain in action.
+<b><span style="color:green">2. Pool Mining</span></b><br>
+    In pool mining, a group of users works together to approve the transaction. Sometimes, the complexity of the data encrypted in the blocks makes it difficult for a user to decrypt the encoded data alone. So, a group of miners works as a team to solve it. After the validation of the result, the reward is then split between all users.
+
+<b><span style="color:green">3. Cloud Mining</span></b><br>
+    Cloud mining eliminates the need for computer hardware and software. It’s a hassle-free method to extract blocks. With cloud mining, handling all the machinery, order timings, or selling profits is no longer a constant worry.
+
+While it is hassle-free, it has its own set of disadvantages. The operational functionality is limited with the limitations on bitcoin hashing. The operational expenses increase as the reward profits are low. Software upgrades are restricted and so is the verification process.
+
+
+<b><span style="color:green">Uses of Blockchain Mining</span></b><br>
+<br><b><span style="color:green">1. Validating Transactions</span></b><br>
+    Cryptocurrencies function without a central administrator and the insecurity can be substantial with the transactions that transpire. So, what is the authentication method with such cryptocurrencies? With each transaction, new blocks are added to the blockchain in the network and the validation lies in the mining results from the blockchain miners.
+
+<b><span style="color:green">2. Confirming Transactions</span></b><br>
+    Miners work the blockchain mining process to confirm whether the transaction is authentic or not. All confirmed transactions are then included in the blockchain.
+
+<b><span style="color:green">3. Securing Networks</span></b><br>
+    With more users mining the blockchain,  the blockchain network security increases. Network security ensures that there are no fraudulent activities happening with the cryptocurrencies.
+
+
 
 
 ---
 
 #### REFERENCES:
 
-“What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
+1. “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
-‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+2. Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+
+3. Naveen. “What Is Blockchain Mining?” Intellipaat Blog, Intellipaat, 26 Aug. 2021, intellipaat.com/blog/tutorial/blockchain-tutorial/what-is-bitcoin-mining/.
+
+4. “Blockchain Explained: How Does a Transaction Get into the Blockchain? | Euromoney Learning.” Euromoney.com, 2016, www.euromoney.com/learning/blockchain-explained/how-transactions-get-into-the-blockchain.
+
+5. Techopedia. “Mining.” Techopedia.com, Techopedia, 8 May 2017, www.techopedia.com/definition/32530/mining-blockchain.
