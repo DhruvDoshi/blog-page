@@ -70,3 +70,4 @@ These are the domains in which banks could face the competions and could potenti
 
 #### REFERENCES
 
+Carlo R.W. De Meijer. “Blockchain and Disruption in the Financial World: Will Banks Survive?” Blockchain and Disruption in the Financial World: Will Banks Survive?, Finextra, 12 Feb. 2019, https://www.finextra.com/blogposting/16658/blockchain-and-disruption-in-the-financial-world-will-banks-survive. 
