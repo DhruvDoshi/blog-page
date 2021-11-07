@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-11-07T18:24:54-04:00</updated>
+ <updated>2021-11-07T18:36:00-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -560,38 +560,65 @@ Though blockchain is said to have impact on virtually every aspect of the financ
  </entry>
  
  <entry>
-   <title>What is Blockchain?</title>
+   <title>Time Stamping in Blockchain and Cryptocurrencies?</title>
    <link href="https://dhruvdoshi.github.io/blog/2019/09/02/what-is-timestamping-in-blockchain"/>
    <updated>2019-09-02T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/02/What-is-TimeStamping-in-Blockchain-!</id>
-   <content type="html">&lt;p&gt;Blockchain is the technology that allows the user to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;create a decentralized system of transaction and data transfers&lt;/span&gt;&lt;/b&gt;. For the naïve person, it is a method to create a people’s bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Trusted timestamping is the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;process of securely keeping track of the creation and modification time of a document.&lt;/span&gt;&lt;/b&gt; Security here means that no one—not even the owner of the document—should be able to change it once it has been recorded provided that the timestamper’s integrity is never compromised.&lt;/p&gt;
 
-&lt;p&gt;Blockchain is a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network&lt;/span&gt;&lt;/b&gt;. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.&lt;/p&gt;
+&lt;p&gt;Decentralization is one of the fundamental aspects of technology blockchain And of course, that implies that anyone, from any part of the world, can be added to the network and can operate in it. This in turn causes, that there is no universal time code. This is because we can connect from any time zone. The timestamp is a timestamp, which is calculated according to different parameters.&lt;/p&gt;
 
-&lt;p&gt;Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as “trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;cryptographic hash of the previous block and the timestamp&lt;/span&gt;&lt;/b&gt;, and the transaction data.&lt;/p&gt;
+&lt;p&gt;The temporal parameter, or timestamp, is based on an &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;instantaneous adjustment that uses a median of the timestamps returned by all nodes of the network.&lt;/span&gt;&lt;/b&gt; This is due to the decentralized form of it, and seeks to keep the nodes of the network as well synchronized as possible.&lt;/p&gt;
 
-&lt;p&gt;But first, let’s get back to basics. What is Blockchain, and how does it work?&lt;/p&gt;
+&lt;p&gt;We must also bear in mind that the timestamps of the blocks are not exact. This is because they do not necessarily have to be in order. However, they still offer a relative precision of between one and two hours, which gives a margin of validity. Basically, &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;all the nodes are connected to the same time slot.&lt;/span&gt;&lt;/b&gt; For this, the reference is taken UTC-0 (London local time), where UTC It’s in Spanish Coordinated Universal Time. From this, the network nodes coordinate the time in which they work. Now, after storing this data, the local node calculates the displacement time between the UTC strip and the local time.&lt;/p&gt;
 
-&lt;p&gt;A blockchain is a file for storing data. Or, to put it in more technical terms, it’s an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.&lt;/p&gt;
+&lt;p&gt;This makes an adjustment between the time of the local node with the displacement of all the nodes that are connected to the network. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;This allows the network time to be adjusted constantly&lt;/span&gt;&lt;/b&gt;. This avoids manipulation and usually does with slight time variations with respect to the time slot. This is done in this way, because there may be many hourly rates and repetitions and other problems could occur. Therefore, a universal timestamp creation system was developed for all nodes. This system takes into account the jet lag that could exist between the nodes.&lt;/p&gt;
 
-&lt;p&gt;So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;“blockchain.”&lt;/span&gt;&lt;/b&gt; As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.&lt;/p&gt;
+&lt;p&gt;Implementing a timestamp makes the block it is &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;impossible to be repeated in the future&lt;/span&gt;&lt;/b&gt;, since in addition to the time, the date of creation of the block is also stored, therefore, there is no possibility that it will be repeated hash that happened a week, two months ago, or a year ago.&lt;/p&gt;
 
-&lt;p&gt;Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it’s because Bitcoin operates in the same way. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Bitcoin&lt;/span&gt;&lt;/b&gt; is the first example of Blockchain in action.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What is blockchain timestamp used for?&lt;/span&gt;&lt;/b&gt;&amp;lt;/br&amp;gt;
+One of the main uses of timestamp is to establish the parameters of the process of mining is.. This is because these timestamps allow nodes to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;correctly adjust the mining difficulty to be used for each block generation period.&lt;/span&gt;&lt;/b&gt; Timestamps help the network determine how long it takes to extract blocks for a certain period, and from there adjust the mining difficulty parameter.&lt;/p&gt;
+
+&lt;p&gt;This of course can open the door for miners to manipulate time in order to lessen the difficulty. Nevertheless, Satoshi Nakamoto he foresaw this and programmed the network so that nodes ignore blocks that are outside a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;certain time range based on their own internal clock time.&lt;/span&gt;&lt;/b&gt; As a result, if a miner tried to do this, he would lose all his mining work.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, in whitepaper From Bitcoin, Nakamoto explains that another functionality of the timestamp is to create a mechanism to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;avoid double spending.&lt;/span&gt;&lt;/b&gt; In this regard, Nakamoto wrote the following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;&lt;em&gt;For our purposes, the last transaction is what counts, so we won’t mind other subsequent double-spending attempts.&lt;/em&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES:&lt;/h4&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;“What Is Blockchain Technology? - IBM Blockchain&lt;/td&gt;
-      &lt;td&gt;IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;“What Is Blockchain Technology? - IBM Blockchain&lt;/td&gt;
+          &lt;td&gt;IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bit2Me Academy. “What Is Timestamp?” Bit2Me Academy, Bit2Me Academy, 12 Dec. 2019, academy.bit2me.com/en/blockchain-timestamp/.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;CryptoCurrency. “Timestamping with Blockchain — How Does It Work in Practice?” Medium, Medium, Apr. 2020, cryptocurrency.medium.com/timestamping-with-blockchain-how-does-it-work-in-practice-678af43c8b48.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;“Content Timestamping – Content Blockchain.” Content-Blockchain.org, 2019, content-blockchain.org/scenarios/content-timestamping/.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
