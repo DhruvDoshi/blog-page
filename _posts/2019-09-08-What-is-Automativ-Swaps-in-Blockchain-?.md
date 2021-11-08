@@ -1,31 +1,57 @@
 ---
 layout: post
-title: What is Blockchain?
-description: What is the Blockchain?
-summary: The blog summarises the information regarding the Blockchain. 
+title: Automatic Swaps in Blockchain
+description: This blog will contain the information regarding the automatic swaps in Blockchain.
+summary: An atomic swap is a smart contract technology that enables the exchange of one cryptocurrency for another without using centralized intermediaries, such as exchanges. 
 tags: blockchain
 minute: 3
 ---
 
-Blockchain is the technology that allows the user to <b><span style="color:green">create a decentralized system of transaction and data transfers</span></b>. For the naïve person, it is a method to create a people's bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.
+An atomic swap is a smart contract technology that enables the exchange of one cryptocurrency for another without using centralized intermediaries, such as exchanges.
 
-Blockchain is a <b><span style="color:green">shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network</span></b>. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.
+Atomic swaps can take place directly between blockchains of different cryptocurrencies, or they can be conducted off-chain, away from the main blockchain. They first came into prominence in September 2017, when an atomic swap between Decred and Litecoin was conducted. 
 
-Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as "trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a <b><span style="color:green">cryptographic hash of the previous block and the timestamp</span></b>, and the transaction data. 
+Since then, other startups and decentralized exchanges have allowed users the same facility. For example, Lightning Labs, a startup that uses bitcoin’s lightning network for transactions, has conducted off-chain swaps using the technology.
 
-But first, let's get back to basics. What is Blockchain, and how does it work?
+Cryptocurrencies and decentralized exchanges, such as 0x and Altcoin.io, have also incorporated the technology. 
 
-A blockchain is a file for storing data. Or, to put it in more technical terms, it's an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.
 
-So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name <b><span style="color:green">"blockchain."</span></b> As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.
+<b><span style="color:green">How do atomic swaps work?</span></b><br>
+Atomic swap protocols are designed in a way that prevents any of the involved parties from cheating. To understand how they work, let’s imagine that Alice wants to trade her Litecoins (LTC) for Bob’s Bitcoins (BTC).
 
-Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it's because Bitcoin operates in the same way. <b><span style="color:green">Bitcoin</span></b> is the first example of Blockchain in action.
+First, Alice deposits her LTC into a contract address that acts like a safe. When this safe is created, Alice also generates a key to access it. She then shares a cryptographic hash of this key with Bob. Note that Bob can’t access the LTC yet because he only has the hash of the key and not the key itself.
+Next, Bob uses the hash provided by Alice to create another safe contract address, in which he deposits his BTC. To claim the BTC, Alice is required to use that same key and, by doing so, she reveals it to Bob (thanks to a special function called hashlock). This means that as soon as Alice claims the BTC, Bob is able to claim the LTC and the swap is complete.
+The term ‘atomic’ relates to the fact that these transactions either happen entirely or not at all. If any of the parties give up or fails to do what they are supposed to, the contract is canceled, and the funds are automatically returned to their owners.
+
+Atomic swaps can happen in two different ways: on-chain and off-chain. On-chain atomic swaps happen on either of the currency’s networks (in this case, either the Bitcoin or Litecoin blockchain). Off-chain atomic swaps, on the other hand, take place on a secondary layer. This kind of atomic swaps is usually based on bidirectional payment channels, similar to the ones used in the Lightning Network.
+Technically speaking, most of these trustless trading systems are based on smart contracts that use multi-signatures and Hash Timelock Contracts (HTLC).
+
+<b><span style="color:green">Hash Timelock Contracts (HTLC)</span></b><br>
+While Hash Timelock Contracts (HTLC) are an important part of the Bitcoin Lightning Network, they are also one of the key components that makes atomic swaps possible. As the name suggests, they are based on two key functions: a hashlock and a timelock.
+A hashlock is what prevents funds from being spent unless a piece of data is revealed (Alice’s key in the previous example). Timelock is a function that ensures the contract can only be executed within a predefined timeframe. Consequently, the use of HTLCs removes the need for trust because they create a specific set of rules that prevent atomic swaps from executing partially.
+
+
+<b><span style="color:green">Advantages</span></b><br>
+The biggest advantages of atomic swaps are all related to its decentralized nature. By removing the need for a centralized exchange or any other kind of mediator, cross-chain swaps can be executed by two (or more) parties without requiring them to trust each other. There is also an increased level of security because users don’t need to give their funds to a centralized exchange or third party. Instead, the trades can happen directly from users’ personal wallets.
+Also, this form of peer to peer trading has much lower operational costs as trading fees are either very low or absent. Lastly, atomic swaps make it possible for trades to happen very quickly, with higher degrees of interoperability. In other words, altcoins can be swapped directly without making use of Bitcoin or Ethereum as an intermediary coin.
+
+
+<b><span style="color:green">Limitations</span></b><br>
+There are a few conditions that need to be met for an atomic swap to take place, and these may likely present obstacles for the technique to be widely adopted. For instance, to perform an atomic swap, the two cryptocurrencies need to be based on blockchains that share the same hashing algorithm (e.g., SHA-256 for Bitcoin). Also, they also need to be compatible with HTLC and other programmable functionalities.
+Other than that, atomic swaps bring up concerns about users privacy. That’s because on-chain swaps and transactions can be quickly tracked on a blockchain explorer, making it easy to link the addresses. A short-term answer to this problem is to use privacy-focused cryptocurrencies as a way to reduce exposure. Still, many developers are experimenting with the use of digital signatures in atomic swaps as a more reliable solution.
+
 
 
 ---
 
 #### REFERENCES:
 
-“What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
+1. “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.‌‌
 
-‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+2. Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+
+3. “What Are Atomic Swaps?,” Investopedia, 2021. [Online]. Available: https://www.investopedia.com/terms/a/atomic-swaps.asp. [Accessed: 08-Nov-2021]
+
+4. Navdeep Kaur Marwah, “Now, kids and teens in Bigg Boss?,” Hindustan Times, 28-Aug-2012. [Online]. Available: https://www.hindustantimes.com/tv/now-kids-and-teens-in-bigg-boss/story-0Dol8bhaaqMi6Hh21RVh8N.html. [Accessed: 08-Nov-2021]
+‌
+‌

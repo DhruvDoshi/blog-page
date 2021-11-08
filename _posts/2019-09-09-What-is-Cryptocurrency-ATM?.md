@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is ATM's in Cryptocurrency and Blockchian?
-description: 
+description: kiosks that allows a person to purchase Bitcoin and other cryptocurrencies by using cash or debit card.
 summary: The blog summarises the information regarding the Blockchain. 
 tags: blockchain
 minute: 3
@@ -24,8 +24,6 @@ A bitcoin ATM is not the same as an automated teller machine (ATM) that allows b
 A bitcoin ATM is a standalone device or kiosk that allows members of the public to buy or sell bitcoin or other cryptocurrencies for a terminal.
 Bitcoin ATMs are connected to the Internet and often utilize QR codes to send and receive tokens to users' digital wallets.
 There are currently more than 14,000 bitcoin ATMs in operation around the world
-
-
 
 ---
 
