@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-11-08T17:25:35-04:00</updated>
+ <updated>2021-11-08T17:35:50-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -278,7 +278,7 @@ Though blockchain is said to have impact on virtually every aspect of the financ
    <id>https://dhruvdoshi.github.io/2019/09/10/What-is-Cryptocurrency-ICO?</id>
    <content type="html">&lt;p&gt;An &lt;strong&gt;initial coin offering (ICO)&lt;/strong&gt; or initial currency offering is a type of funding using cryptocurrencies. It is often a form of crowdfunding, although a private ICO which does not seek public investment is also possible. In an ICO, a quantity of cryptocurrency is sold in the form of “tokens” (“coins”) to speculators or investors, in exchange for legal tender or other (generally established and more stable) cryptocurrencies such as &lt;strong&gt;Bitcoin or Ether&lt;/strong&gt;. The tokens are promoted as future functional units of currency if or when the ICO’s funding goal is met and the project successfully launches&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;KEY TAKEAWAYS&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KEY TAKEAWAYS&amp;lt;/span&amp;gt;&amp;lt;/b&amp;gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Initial Coin Offerings (ICOs) are a popular fundraising method used primarily by startups wishing to offer products and services, usually related to the cryptocurrency and blockchain space.&lt;/li&gt;
   &lt;li&gt;ICOs are similar to stocks, but they sometimes have utility for a software service or product offered.&lt;/li&gt;
@@ -329,38 +329,53 @@ ICOs are largely unregulated. In the United States, there aren’t any regulatio
  </entry>
  
  <entry>
-   <title>What is Blockchain?</title>
+   <title>What is ATM's in Cryptocurrency and Blockchian?</title>
    <link href="https://dhruvdoshi.github.io/blog/2019/09/09/what-is-cryptocurrency-atm"/>
    <updated>2019-09-09T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/09/What-is-Cryptocurrency-ATM?</id>
-   <content type="html">&lt;p&gt;Blockchain is the technology that allows the user to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;create a decentralized system of transaction and data transfers&lt;/span&gt;&lt;/b&gt;. For the naïve person, it is a method to create a people’s bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Bitcoin ATMs (Automated Teller Machine)&lt;/span&gt;&lt;/b&gt; are kiosks that allows a person to purchase Bitcoin and other cryptocurrencies by using cash or debit card. Some Bitcoin ATMs offer bi-directional functionality enabling both the purchase of Bitcoin as well as the sale of Bitcoin for cash. In some cases, Bitcoin ATM providers require users to have an existing account to transact on the machine.&lt;/p&gt;
 
-&lt;p&gt;Blockchain is a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network&lt;/span&gt;&lt;/b&gt;. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;There are two main types of Bitcoin machines&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;unidirectional (one-way)&lt;/li&gt;
+  &lt;li&gt;bidirectional (two-way)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as “trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;cryptographic hash of the previous block and the timestamp&lt;/span&gt;&lt;/b&gt;, and the transaction data.&lt;/p&gt;
+&lt;p&gt;Only about 30% of all crypto ATMs worldwide are bidirectional, and less than 23% in the U.S. Both types are connected to the Internet, allowing for cash purchase and/or sale of Bitcoin. Some machines use a paper receipt and others move money to a public key on the blockchain. Bitcoin cash kiosks look like traditional ATMs, but do not connect to a bank account and instead connect the user directly to a Bitcoin wallet or exchange. While some Bitcoin ATMs are traditional ATMs with revamped software, they do not require a bank account or debit card. On average, transaction fees are 10-20% but can go as high as 25% and as low as 7%.&lt;/p&gt;
 
-&lt;p&gt;But first, let’s get back to basics. What is Blockchain, and how does it work?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What Is a Bitcoin ATM?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+A bitcoin ATM is an Internet-connected kiosk that allows customers to purchase bitcoins and/or other cryptocurrencies with deposited cash.&lt;/p&gt;
 
-&lt;p&gt;A blockchain is a file for storing data. Or, to put it in more technical terms, it’s an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.&lt;/p&gt;
+&lt;p&gt;A bitcoin ATM is not the same as an automated teller machine (ATM) that allows bank customers to physically withdraw, deposit, or transfer funds in one’s bank account. Rather, bitcoin ATMs produce blockchain-based transactions that send cryptocurrencies to the user’s digital wallet, often via the use of a QR code.&lt;/p&gt;
 
-&lt;p&gt;So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;“blockchain.”&lt;/span&gt;&lt;/b&gt; As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.&lt;/p&gt;
-
-&lt;p&gt;Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it’s because Bitcoin operates in the same way. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Bitcoin&lt;/span&gt;&lt;/b&gt; is the first example of Blockchain in action.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;KEY TAKEAWAYS&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+A bitcoin ATM is a standalone device or kiosk that allows members of the public to buy or sell bitcoin or other cryptocurrencies for a terminal.
+Bitcoin ATMs are connected to the Internet and often utilize QR codes to send and receive tokens to users’ digital wallets.
+There are currently more than 14,000 bitcoin ATMs in operation around the world&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES:&lt;/h4&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;“What Is Blockchain Technology? - IBM Blockchain&lt;/td&gt;
-      &lt;td&gt;IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;“What Is Blockchain Technology? - IBM Blockchain&lt;/td&gt;
+          &lt;td&gt;IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wikipedia Contributors, “Bitcoin ATM,” Wikipedia, 29-Oct-2021. [Online]. Available: https://en.wikipedia.org/wiki/Bitcoin_ATM. [Accessed: 08-Nov-2021]
+‌&lt;/li&gt;
+  &lt;li&gt;“Bitcoin ATM,” Investopedia, 2021. [Online]. Available: https://www.investopedia.com/terms/b/bitcoin-atm.asp. [Accessed: 08-Nov-2021]
+‌&lt;/li&gt;
+&lt;/ol&gt;
 </content>
  </entry>
  
