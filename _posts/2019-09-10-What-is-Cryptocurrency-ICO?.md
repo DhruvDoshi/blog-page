@@ -9,7 +9,7 @@ minute: 3
 
 An **initial coin offering (ICO)** or initial currency offering is a type of funding using cryptocurrencies. It is often a form of crowdfunding, although a private ICO which does not seek public investment is also possible. In an ICO, a quantity of cryptocurrency is sold in the form of "tokens" ("coins") to speculators or investors, in exchange for legal tender or other (generally established and more stable) cryptocurrencies such as **Bitcoin or Ether**. The tokens are promoted as future functional units of currency if or when the ICO's funding goal is met and the project successfully launches
 
-<b><span style="color:green">KEY TAKEAWAYS</span></b>
+KEY TAKEAWAYS</span></b>
  - Initial Coin Offerings (ICOs) are a popular fundraising method used primarily by startups wishing to offer products and services, usually related to the cryptocurrency and blockchain space.
  - ICOs are similar to stocks, but they sometimes have utility for a software service or product offered. 
  - Some ICOs have yielded massive returns for investors. Numerous others have turned out to be fraud or have failed or performed poorly. 
