@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What is cryptocurrency ? 
-description: This blog empthatises on what the cryptocurrency means and how cryptocurrency is relevant in todays day and age.
+title: What is cryptocurrency? 
+description: This blog emphasizes what cryptocurrency means and how cryptocurrency is relevant in today's day and age.
 summary: A cryptocurrency, crypto-currency, or crypto is a collection of binary data which is designed to work as a medium of exchange wherein individual coin ownership records are stored in a ledger which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership.
 tags: blockchain
 minute: 7
@@ -12,9 +12,9 @@ minute: 7
 
 A cryptocurrency, crypto-currency, or crypto is a collection of binary data which is designed to work as a medium of exchange wherein individual coin ownership records are stored in a ledger which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership.
 
-Crypto algorithms are around in computer domain since 1983 but the induction of hashing and development of blockchain came in public around 2008 by Satoshi Nakamoto and after the publication of research paper which was emphathising on proof of work algorithm, a new cryptocurrency came up named Bitcoin.
+Crypto algorithms are around in the computer domain since 1983 but the induction of hashing and development of blockchain came to the public around 2008 by Satoshi Nakamoto and after the publication of a research paper which was empathizing on proof of work algorithm, a new cryptocurrency came up named Bitcoin.
 
-There are more than <b><span style="color:green">6000 cryptocurrencies</span></b> in existance today in 2021. Major chunk of them were developed in last decade. Those are all working in different alogithms like proof of stake or proof of work, there are dozen more algorithms avaliable over the internet!
+There are more than <b><span style="color:green">6000 cryptocurrencies</span></b> in existence today in 2021. The major chunk of them was developed in the last decade. Those are all working in different algorithms like proof of stake or proof of work, there are dozen more algorithms available over the internet!
 
 <b><span style="color:green">What is Cryptocurrencies</span></b><br>
 According to *Jan Lansky*, a cryptocurrency is a system that meets six conditions
@@ -29,14 +29,14 @@ According to *Jan Lansky*, a cryptocurrency is a system that meets six condition
 In March 2018, the word cryptocurrency was added to the <b><span style="color:green">Merriam-Webster Dictionary.</span></b>
 
 
-There are numerous thing more which we need to understand in order to know more about the working of cryptocurrencies.
+There are numerous things more which we need to understand to know more about the working of cryptocurrencies.
 
 1. <a href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain">Blockchain</a>
 2. Nodes
 3. Time Stamping
 4. Mining
 5. Wallet
-6. Anonimity
+6. Anonymity
 7. Transaction Fees
 8. Exchanges
 9. Automatic Swaps

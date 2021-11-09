@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What is ATM's in Cryptocurrency and Blockchian?
-description: kiosks that allows a person to purchase Bitcoin and other cryptocurrencies by using cash or debit card.
+title: What are ATMs in Cryptocurrency and Blockchain?
+description: kiosks that allow a person to purchase Bitcoin and other cryptocurrencies by using cash or debit card.
 summary: The blog summarises the information regarding the Blockchain. 
 tags: blockchain
 minute: 3
@@ -29,11 +29,11 @@ There are currently more than 14,000 bitcoin ATMs in operation around the world
 
 #### REFERENCES:
 
-1. “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
+“What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
-2. Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
 
-3. Wikipedia Contributors, “Bitcoin ATM,” Wikipedia, 29-Oct-2021. [Online]. Available: https://en.wikipedia.org/wiki/Bitcoin_ATM. [Accessed: 08-Nov-2021]
+Wikipedia Contributors, “Bitcoin ATM,” Wikipedia, 29-Oct-2021. [Online]. Available: https://en.wikipedia.org/wiki/Bitcoin_ATM. [Accessed: 08-Nov-2021]
 ‌
-4. “Bitcoin ATM,” Investopedia, 2021. [Online]. Available: https://www.investopedia.com/terms/b/bitcoin-atm.asp. [Accessed: 08-Nov-2021]
+“Bitcoin ATM,” Investopedia, 2021. [Online]. Available: https://www.investopedia.com/terms/b/bitcoin-atm.asp. [Accessed: 08-Nov-2021]
 ‌

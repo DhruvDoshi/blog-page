@@ -26,6 +26,6 @@ Because the whole Blockchain is duplicated across many computers,  any user can 
 
 #### REFERENCES:
 
-“What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
+“What Is Blockchain Technology? - IBM Blockchain IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
 ‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.

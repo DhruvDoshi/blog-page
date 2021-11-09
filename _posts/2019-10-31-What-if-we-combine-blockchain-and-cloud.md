@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What if we combine Blockchain and Cloud Computing ?
+title: What if we combine Blockchain and Cloud Computing?
 description: How the architecture of blockchain and cloud computing would be looking like.
-summary: There is the reference of some research paper in this blog which includes information regarding how we could develop the blockchian based cloud computing setup. I've referred the IEEE research paper and tagged it in the references.
+summary: There is the reference of some research papers in this blog that includes information regarding how we could develop the blockchain-based cloud computing setup. I've referred to the IEEE research paper and tagged it in the references.
 tags: blockchain
 minute: 3
 ---
@@ -19,11 +19,9 @@ There are several projects and Ideas which are working progressively in this dir
 
 ---
 
-<br>
-
 #### REFERENCES
 
-C. V. N. U. B. Murthy, M. L. Shri, S. Kadry and S. Lim, "Blockchain Based Cloud Computing: Architecture and Research Challenges," in IEEE Access, vol. 8, pp. 205190-205205, 2020, doi: 10.1109/ACCESS.2020.3036812.
+C. V. N. U. B. Murthy, M. L. Shri, S. Kadry and S. Lim, "Blockchain Based Cloud Computing: Architecture and Research Challenges," in IEEE Access, vol. 8, pp. 205190-205205, 2020, DOI: 10.1109/ACCESS.2020.3036812.
 
 Nate Nead, “Blockchain’s Next Frontier: Cloud Computing?,” InvestmentBank.com, 09-Jun-2018. [Online]. Available: https://investmentbank.com/blockchain-cloud-computing/. [Accessed: 17-Oct-2021]
 

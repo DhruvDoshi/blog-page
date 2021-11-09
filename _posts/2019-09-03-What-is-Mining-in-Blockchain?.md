@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Mining of Block in Blockchian and Cryptocurrency?
+title: What is Mining of Block in Blockchain and Cryptocurrency?
 description: 
 summary: 
 tags: blockchain
@@ -8,13 +8,13 @@ minute: 7
 ---
 
 <b><span style="color:green">What exactly is Blockchain mining?</span></b><br>
-A peer-to-peer computer process, <b><span style="color:green">Blockchain mining is used to secure and verify Cryptocurrency transactions.</span></b> Mining involves Blockchain miners who add cryptcurrenies transaction data to cryptcurrenies global public ledger of past transactions. In the ledgers, blocks are secured by Blockchain miners and are connected to each other forming a chain.
+A peer-to-peer computer process, <b><span style="color:green">Blockchain mining is used to secure and verify Cryptocurrency transactions.</span></b> Mining involves Blockchain miners who add cryptocurrencies transaction data to cryptocurrency's global public ledger of past transactions. In the ledgers, blocks are secured by Blockchain miners and are connected forming a chain.
 
-When we talk in depth, as opposed to traditional financial services systems, Bitcoins have no central clearing house. Bitcoin transactions are generally verified in <b><span style="color:green">decentralized clearing systems wherein people contribute computing resources to verify the same.</span></b> This process of verifying transactions in called mining. It is probably referred to as mining as it is analogous to mining of commodities like gold—mining gold requires a lot of effort and resources, but then there is a limited supply of gold; hence, the amount of gold which is mined every year remains roughly the same. In the same manner, <b><span style="color:green">a lot of computing power is consumed in the process of mining bitcoins.</span></b> The number of bitcoins that are generated from mining dwindles over time. In words of Satoshi Nakamato, there’s a limited supply of bitcoins—only 21 million bitcoins will ever be created.
+When we talk in-depth, as opposed to traditional financial services systems, Bitcoins have no central clearinghouse. Bitcoin transactions are generally verified in <b><span style="color:green">decentralized clearing systems wherein people contribute computing resources to verify the same.</span></b> This process of verifying transactions is called mining. It is probably referred to as mining as it is analogous to mining of commodities like gold—mining gold requires a lot of effort and resources, but then there is a limited supply of gold; hence, the amount of gold that is mined every year remains roughly the same. In the same manner, <b><span style="color:green">a lot of computing power is consumed in the process of mining bitcoins.</span></b> The number of bitcoins that are generated from mining dwindles over time. In the words of Satoshi Nakamoto, there’s a limited supply of bitcoins—only 21 million bitcoins will ever be created.
 
 At its core, the term ‘Blockchain mining’ is used to describe the process of adding transaction records to the bitcoin blockchain. This process of adding blocks to the blockchain is how transactions are processed and how money moves around securely on Bitcoins. This process of Blockchain mining is performed by a community of people around the world called ‘Blockchain miners.'
 
-Anyone can apply to become a Blockchain miner. These Blockchain miners install and run a <b><span style="color:green">special Blockchain mining software that enables their computers to communicate securely with one another.</span></b> Once a computer installs the software, joins the network and begins mining bitcoins, it becomes what is called a *<a href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain">‘node.’</a>* Together, all these nodes communicate with one another and process transactions to add new blocks to the blockchain which is commonly known as the bitcoin network. This bitcoin network runs throughout the day. It processes equivalent to millions of dollars in bitcoin transactions and has never been hacked or experienced a downtime since its launch in 2009.
+Anyone can apply to become a Blockchain miner. These Blockchain miners install and run a <b><span style="color:green">special Blockchain mining software that enables their computers to communicate securely with one another.</span></b> Once a computer installs the software, joins the network and begins mining bitcoins, it becomes what is called a *<a href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain">‘node.’</a>* Together, all these nodes communicate with one another and process transactions to add new blocks to the blockchain which is commonly known as the bitcoin network. This bitcoin network runs throughout the day. It processes equivalent to millions of dollars in bitcoin transactions and has never been hacked or experienced downtime since its launch in 2009.
 
 <b><span style="color:green">Types of Mining</span></b><br>
 There are mainly three disting types of mining refereed to cryptocurrencies
@@ -49,12 +49,12 @@ While it is hassle-free, it has its own set of disadvantages. The operational fu
 
 #### REFERENCES:
 
-1. “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
+“What Is Blockchain Technology? - IBM Blockchain IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
-2. Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
 
-3. Naveen. “What Is Blockchain Mining?” Intellipaat Blog, Intellipaat, 26 Aug. 2021, intellipaat.com/blog/tutorial/blockchain-tutorial/what-is-bitcoin-mining/.
+Naveen. “What Is Blockchain Mining?” Intellipaat Blog, Intellipaat, 26 Aug. 2021, intellipaat.com/blog/tutorial/blockchain-tutorial/what-is-bitcoin-mining/.
 
-4. “Blockchain Explained: How Does a Transaction Get into the Blockchain? | Euromoney Learning.” Euromoney.com, 2016, www.euromoney.com/learning/blockchain-explained/how-transactions-get-into-the-blockchain.
+“Blockchain Explained: How Does a Transaction Get into the Blockchain? | Euromoney Learning.” Euromoney.com, 2016, www.euromoney.com/learning/blockchain-explained/how-transactions-get-into-the-blockchain.
 
-5. Techopedia. “Mining.” Techopedia.com, Techopedia, 8 May 2017, www.techopedia.com/definition/32530/mining-blockchain.
+Techopedia. “Mining.” Techopedia.com, Techopedia, 8 May 2017, www.techopedia.com/definition/32530/mining-blockchain.

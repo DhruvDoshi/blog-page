@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Where could be Blockchian be used ?
+title: Where could be Blockchain be used?
 description: where could be Blockchain be used?
-summary: This is the blog which includes information where blockchain could be used.
+summary: This is the blog that includes information on where blockchain could be used.
 tags: blockchain
 minute: 5
 ---

@@ -49,7 +49,7 @@ Each type has its tradeoffs. Paper and hardware wallets are harder for malicious
 
 #### REFERENCES:
 
-1. “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.‌
+1. “What Is Blockchain Technology? - IBM Blockchain IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.‌
 
 2. Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
 

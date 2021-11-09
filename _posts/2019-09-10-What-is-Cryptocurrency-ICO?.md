@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What is initial coin offering in Blockchian?
-description: This is the blog which describe how the Initial coin offering works, and how we need can host tem to the exchanges. 
+title: What is the initial coin offering in Blockchain?
+description: This is the blog that describes how the Initial coin offering works, and how we need can host them to the exchanges. 
 summary:  An **initial coin offering (ICO)** or initial currency offering is a type of funding using cryptocurrencies. It is often a form of crowdfunding, although a private ICO which does not seek public investment is also possible. In an ICO, a quantity of cryptocurrency is sold in the form of "tokens" ("coins") to speculators or investors, in exchange for legal tender or other (generally established and more stable) cryptocurrencies such as **Bitcoin or Ether**. The tokens are promoted as future functional units of currency if or when the ICO's funding goal is met and the project successfully launches.
 tags: blockchain
 minute: 3
@@ -38,11 +38,11 @@ Some countries have taken a strict stance and banned ICOs entirely. Countries th
 
 #### REFERENCES:
 
-1. “What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
+“What Is Blockchain Technology? - IBM Blockchain | IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
-2. Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
 
-3. Wikipedia Contributors, “Initial coin offering,” Wikipedia, 08-Nov-2021. [Online]. Available: https://en.wikipedia.org/wiki/Initial_coin_offering. [Accessed: 08-Nov-2021]
+Wikipedia Contributors, “Initial coin offering,” Wikipedia, 08-Nov-2021. [Online]. Available: https://en.wikipedia.org/wiki/Initial_coin_offering. [Accessed: 08-Nov-2021]
 ‌
-4. L. Daly, “What Is an Initial Coin Offering (ICO)?,” The Motley Fool, 12-Oct-2021. [Online]. Available: https://www.fool.com/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/initial-coin-offering/. [Accessed: 08-Nov-2021]
+L. Daly, “What Is an Initial Coin Offering (ICO)?,” The Motley Fool, 12-Oct-2021. [Online]. Available: https://www.fool.com/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/initial-coin-offering/. [Accessed: 08-Nov-2021]
 ‌
