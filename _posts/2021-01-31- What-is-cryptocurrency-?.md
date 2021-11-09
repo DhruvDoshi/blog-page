@@ -32,16 +32,16 @@ In March 2018, the word cryptocurrency was added to the <b><span style="color:gr
 There are numerous things more which we need to understand to know more about the working of cryptocurrencies.
 
 1. <a href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain">Blockchain</a>
-2. Nodes
-3. Time Stamping
-4. Mining
-5. Wallet
-6. Anonymity
-7. Transaction Fees
-8. Exchanges
-9. Automatic Swaps
-10. ATM's
-11. Initial Coin Offering 
+2. <a href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain">Nodes</a>
+3. <a href="https://dhruvdoshi.github.io/blog/2019/09/02/what-is-timestamping-in-blockchain">Time Stamping</a>
+4. <a href="https://dhruvdoshi.github.io/blog/2019/09/03/what-is-mining-in-blockchain">Mining</a>
+5. <a href="https://dhruvdoshi.github.io/blog/2019/09/04/what-is-wallet-in-blockchain">Wallet</a>
+6. <a href="https://dhruvdoshi.github.io/blog/2019/09/05/what-is-anonimity-in-blockchain">Anonymity</a>
+7. <a href="https://dhruvdoshi.github.io/blog/2019/09/06/what-is-transaction-fees-in-blockchain">Transaction Fees</a>
+8. <a href="https://dhruvdoshi.github.io/blog/2019/09/07/what-is-exchanges-in-blockchain">Exchanges</a>
+9. <a href="https://dhruvdoshi.github.io/blog/2019/09/08/what-is-automativ-swaps-in-blockchain">Automatic Swaps</a>
+10. <a href="https://dhruvdoshi.github.io/blog/2019/09/09/what-is-cryptocurrency-atm">ATM's</a>
+11. <a href="https://dhruvdoshi.github.io/blog/2019/09/10/what-is-cryptocurrency-ico">Initial Coin Offering </a>
 
 You coulf find more information on all of these topics from the <a href="https://dhruvdoshi.github.io/blog">home</a> page.
 
