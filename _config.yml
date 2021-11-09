@@ -1,8 +1,8 @@
 site: Dhruv Doshi
 title: Dhruv Doshi
-greetings: Get Ready to read something Amazing😎
+greetings: HII THERE!!
 description: >-
-  Blockchain Developer writing vlogs
+  Here are some blogs majorly on Blockchian and Cryptocurrencies. This website comes up with the search feature and all the blogs are completely written in Markdown.
 lang: en-US
 timezone: America/Halifax
 repo: https://github.com/DhruvDoshi/blog # site repo [optional]
@@ -11,7 +11,7 @@ data-theme: dark # default theme "dark" | "light"
 author:
   name: Dhruv Doshi
   bio: Blockchain Developer writing vlogs
-  userpicture: 
+  userpicture: https://dhruvdoshi.github.io/images/me.jpg
   username: dhruv2599 # general username
   github: DhruvDoshi # github username
   twitter: dhruv25071999 # twitter username
