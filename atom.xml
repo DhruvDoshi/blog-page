@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Dhruv Doshi</title>
- <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
- <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-11-09T16:32:10-04:00</updated>
+ <link href="https://dhruvdoshi.github.io/blog1/atom.xml" rel="self"/>
+ <link href="https://dhruvdoshi.github.io/blog1/"/>
+ <updated>2021-11-09T16:47:16-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>What is cryptocurrency?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2021/01/31/what-is-cryptocurrency"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2021/01/31/what-is-cryptocurrency"/>
    <updated>2021-01-31T00:00:00-04:00</updated>
    <id>https://dhruvdoshi.github.io/2021/01/31/ What-is-cryptocurrency-?</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;CRYPTOCURRENCY&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
@@ -67,7 +67,7 @@ According to &lt;em&gt;Jan Lansky&lt;/em&gt;, a cryptocurrency is a system that 
  
  <entry>
    <title>How Banks could retaliate to the blockchain industry</title>
-   <link href="https://dhruvdoshi.github.io/blog/2020/12/31/how-banks-could-retaliate"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2020/12/31/how-banks-could-retaliate"/>
    <updated>2020-12-31T00:00:00-04:00</updated>
    <id>https://dhruvdoshi.github.io/2020/12/31/How-Banks_Could_retaliate?</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;How should banks react?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
@@ -103,7 +103,7 @@ According to &lt;em&gt;Jan Lansky&lt;/em&gt;, a cryptocurrency is a system that 
  
  <entry>
    <title>How Blockchain Could Disrupt Banking Industry?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2020/12/01/how-blockchain-could-distupt-banking"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2020/12/01/how-blockchain-could-distupt-banking"/>
    <updated>2020-12-01T00:00:00-04:00</updated>
    <id>https://dhruvdoshi.github.io/2020/12/01/How-Blockchain_Could_Distupt-Banking-?</id>
    <content type="html">&lt;p&gt;In today’s day and age, banks are the most important key point in the whole finance ecosystem where they serve as the critical storehouses and transfer hubs of value. Now with the induction of Blockchain in this domain, the role of banks in the transaction and the value of fiat currency is going down day by day hence there could be a scenario where blockchain could propose a big threat to large institutions like JP Morgan and Credit Suisse.&lt;/p&gt;
@@ -189,7 +189,7 @@ Though blockchain is said to have an impact on virtually every aspect of the fin
  
  <entry>
    <title>What is the weakness of Blockchain?? (Everything isn't perfect!!)</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/12/01/what-are-weaknes-of-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/12/01/what-are-weaknes-of-blockchain"/>
    <updated>2019-12-01T00:00:00-04:00</updated>
    <id>https://dhruvdoshi.github.io/2019/12/01/what-are-weaknes-of-Blockchain</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;1. There is no customer protection on the blockchain&lt;/span&gt;&lt;/b&gt; Blockchain technology operates as a push-based settlement system. This means the individual holds power over the resource they want to verify on the blockchain. This could be in cryptos, certificate authentication, land titles, etc. The problem with this is if a transaction goes sour after it has already been verified on the blockchain, the only feasible way of returning the transaction is if the parties agree to reverse it. Using a  centralized system like a bank. However, there is a procedure in place to be able to dispute trades after they are complete. Some trade technologies that settle on a blockchain have used an arbiter system to fix this problem, an example of this is the Open Bazaar P2P  trade network. This way trade occurs between two people and one impartial moderator.&lt;/p&gt;
@@ -216,7 +216,7 @@ Though blockchain is said to have an impact on virtually every aspect of the fin
  
  <entry>
    <title>What if we combine Blockchain and Cloud Computing?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/10/31/what-if-we-combine-blockchain-and-cloud"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/10/31/what-if-we-combine-blockchain-and-cloud"/>
    <updated>2019-10-31T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/10/31/What-if-we-combine-blockchain-and-cloud</id>
    <content type="html">&lt;p&gt;Blockchain technology is distributed ledger with records of data containing all details of the transaction carried out and distributed among the nodes present in the network. All the transactions carried out previously are &lt;strong&gt;saved and then they are reflected&lt;/strong&gt; in the next upcoming block hash. Hence it is an &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;intangible and immutable&lt;/span&gt;&lt;/b&gt; data structure at the basic end.&lt;/p&gt;
@@ -244,7 +244,7 @@ Though blockchain is said to have an impact on virtually every aspect of the fin
  
  <entry>
    <title>Where could be Blockchain be used?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/10/01/where-could-be-blockchain-used"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/10/01/where-could-be-blockchain-used"/>
    <updated>2019-10-01T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/10/01/Where-could-be-Blockchain_used</id>
    <content type="html">&lt;p&gt;Blockchain is freaking exciting and does have the potential to transform all of the business and how it operates, but that doesn’t mean it’s the right solution for every scenario. Here’s why you should choose blockchain  over, say, a standard outdated Centralized database:&lt;/p&gt;
@@ -269,7 +269,7 @@ Though blockchain is said to have an impact on virtually every aspect of the fin
  
  <entry>
    <title>What is the initial coin offering in Blockchain?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/10/what-is-cryptocurrency-ico"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/10/what-is-cryptocurrency-ico"/>
    <updated>2019-09-10T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/10/What-is-Cryptocurrency-ICO?</id>
    <content type="html">&lt;p&gt;An &lt;strong&gt;initial coin offering (ICO)&lt;/strong&gt; or initial currency offering is a type of funding using cryptocurrencies. It is often a form of crowdfunding, although a private ICO which does not seek public investment is also possible. In an ICO, a quantity of cryptocurrency is sold in the form of “tokens” (“coins”) to speculators or investors, in exchange for legal tender or other (generally established and more stable) cryptocurrencies such as &lt;strong&gt;Bitcoin or Ether&lt;/strong&gt;. The tokens are promoted as future functional units of currency if or when the ICO’s funding goal is met and the project successfully launches&lt;/p&gt;
@@ -322,7 +322,7 @@ L. Daly, “What Is an Initial Coin Offering (ICO)?,” The Motley Fool, 12-Oct-
  
  <entry>
    <title>What are ATMs in Cryptocurrency and Blockchain?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/09/what-is-cryptocurrency-atm"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/09/what-is-cryptocurrency-atm"/>
    <updated>2019-09-09T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/09/What-is-Cryptocurrency-ATM?</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Bitcoin ATMs (Automated Teller Machine)&lt;/span&gt;&lt;/b&gt; are kiosks that allows a person to purchase Bitcoin and other cryptocurrencies by using cash or debit card. Some Bitcoin ATMs offer bi-directional functionality enabling both the purchase of Bitcoin as well as the sale of Bitcoin for cash. In some cases, Bitcoin ATM providers require users to have an existing account to transact on the machine.&lt;/p&gt;
@@ -369,7 +369,7 @@ There are currently more than 14,000 bitcoin ATMs in operation around the world&
  
  <entry>
    <title>Automatic Swaps in Blockchain</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/08/what-is-automativ-swaps-in-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/08/what-is-automativ-swaps-in-blockchain"/>
    <updated>2019-09-08T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/08/What-is-Automativ-Swaps-in-Blockchain-?</id>
    <content type="html">&lt;p&gt;An atomic swap is a smart contract technology that enables the exchange of one cryptocurrency for another without using centralized intermediaries, such as exchanges.&lt;/p&gt;
@@ -427,7 +427,7 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
  
  <entry>
    <title>What are Crypto Exchanges?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/07/what-is-exchanges-in-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/07/what-is-exchanges-in-blockchain"/>
    <updated>2019-09-07T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/07/What-is-Exchanges-in-Blockchain-?</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What are Cryptocurrency Exchanges?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
@@ -472,7 +472,7 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
  
  <entry>
    <title>What is Transaction Fees in Blockchain?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/06/what-is-transaction-fees-in-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/06/what-is-transaction-fees-in-blockchain"/>
    <updated>2019-09-06T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/06/What-is-Transaction-Fees-in-Blockchain-?</id>
    <content type="html">&lt;p&gt;The blockchain fee is a cryptocurrency transaction fee that is &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;charged to users when performing crypto transactions.&lt;/span&gt;&lt;/b&gt; The fee is collected in order to process the transaction on the network.&lt;/p&gt;
@@ -505,7 +505,7 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
  
  <entry>
    <title>Why blockchain is portrayed as anonymous?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/05/what-is-anonimity-in-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/05/what-is-anonimity-in-blockchain"/>
    <updated>2019-09-05T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/05/What-is-Anonimity-in-Blockchain-?</id>
    <content type="html">&lt;p&gt;Blockchain is public for all but the information saved in the blockchain is not public for all the users as it comes up with SHA encryption and the information is only accessed while verification of the data by the legitimacy miners only.&lt;/p&gt;
@@ -535,7 +535,7 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
  
  <entry>
    <title>What are Crypto wallets in Blockchan and Cryptocurrencies ?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/04/what-is-wallet-in-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/04/what-is-wallet-in-blockchain"/>
    <updated>2019-09-04T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/04/What-is-Wallet-in-Blockchain-?</id>
    <content type="html">&lt;p&gt;Crypto wallets keep your private keys – the passwords that give you access to your cryptocurrencies – safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, which makes using crypto as easy as shopping with a credit card online.&lt;/p&gt;
@@ -608,7 +608,7 @@ Crypto wallets range from simple-to-use apps to more complex security solutions.
  
  <entry>
    <title>What is Mining of Block in Blockchain and Cryptocurrency?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/03/what-is-mining-in-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/03/what-is-mining-in-blockchain"/>
    <updated>2019-09-03T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/03/What-is-Mining-in-Blockchain?</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What exactly is Blockchain mining?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
@@ -670,7 +670,7 @@ When mining is done by an individual, user registration as a miner is necessary.
  
  <entry>
    <title>Time Stamping in Blockchain and Cryptocurrencies?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/02/what-is-timestamping-in-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/02/what-is-timestamping-in-blockchain"/>
    <updated>2019-09-02T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/02/What-is-TimeStamping-in-Blockchain-!</id>
    <content type="html">&lt;p&gt;Trusted timestamping is the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;process of securely keeping track of the creation and modification time of a document.&lt;/span&gt;&lt;/b&gt; Security here means that no one—not even the owner of the document—should be able to change it once it has been recorded provided that the timestamp’s integrity is never compromised.&lt;/p&gt;
@@ -720,7 +720,7 @@ One of the main uses of a timestamp is to establish the parameters of the proces
  
  <entry>
    <title>What is Nodes in Blockchain?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/09/01/what-is-nodes-in-blockchain"/>
    <updated>2019-09-01T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/01/What-is-Nodes-in-Blockchain-?</id>
    <content type="html">&lt;p&gt;A Node is a part of cryptocurrency that is needed to make most of the popular tokens like Bitcoin or Dogecoin function. It’s a fundamental part of the blockchain network, which is the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;decentralised ledger that is used to maintain a cryptocurrency.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
@@ -780,7 +780,7 @@ And finally, a sub-category called listening nodes. A listening node, essentiall
  
  <entry>
    <title>What is Blockchain?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain"/>
+   <link href="https://dhruvdoshi.github.io/blog1/2019/08/31/what-is-blockchain"/>
    <updated>2019-08-31T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/08/31/What-is-Blockchain-!</id>
    <content type="html">&lt;p&gt;Blockchain is the technology that allows the user to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;create a decentralized system of transaction and data transfers&lt;/span&gt;&lt;/b&gt;. For the naïve person, it is a method to create a people’s bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.&lt;/p&gt;
