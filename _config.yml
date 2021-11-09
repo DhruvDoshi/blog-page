@@ -5,7 +5,7 @@ description: >-
   Here are some blogs majorly on Blockchian and Cryptocurrencies. This website comes up with the search feature and all the blogs are completely written in Markdown.
 lang: en-US
 timezone: America/Halifax
-repo: https://github.com/DhruvDoshi/blog1 # site repo [optional]
+repo: https://github.com/DhruvDoshi/blog # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
@@ -22,7 +22,7 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 
 # URL settings
 url: "https://dhruvdoshi.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/blog1" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+baseurl: "/blog" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
