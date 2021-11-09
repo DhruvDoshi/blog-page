@@ -1,25 +1,33 @@
 ---
 layout: post
-title: What is Blockchain?
+title: What are Crypto Exchanges?
 description: What is the Blockchain?
 summary: The blog summarises the information regarding the Blockchain. 
 tags: blockchain
 minute: 3
 ---
 
-Blockchain is the technology that allows the user to <b><span style="color:green">create a decentralized system of transaction and data transfers</span></b>. For the naïve person, it is a method to create a people's bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.
+<b><span style="color:green">What are Cryptocurrency Exchanges?</span></b><br>
 
-Blockchain is a <b><span style="color:green">shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network</span></b>. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.
+<span style="color:green">A crypto exchange is a platform on which you can buy and sell cryptocurrency.</span> You can use exchanges to trade one crypto for another — converting Bitcoin to Litecoin, for example — or to buy crypto using regular currency, like the U.S. Dollar. Exchanges reflect current market prices of the cryptocurrencies they offer. You can also convert cryptocurrencies back into the U.S. Dollar or another currency on an exchange, to leave as cash within your account (if you want to trade back into crypto later) or withdraw to your regular bank account.
 
-Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as "trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a <b><span style="color:green">cryptographic hash of the previous block and the timestamp</span></b>, and the transaction data. 
+Cryptocurrency exchanges are online platforms in which you can exchange one kind of digital asset for another based on the market value of the given assets. The most popular exchanges are currently Binance and GDAX. It is important not to confuse cryptocurrency exchanges for cryptocurrency wallets or wallet brokerages. Cryptocurrency wallets and wallet brokerages generally allow you to buy and sell a small range of popular digital assets (Bitcoin and Ethereum), which you can then send to a different exchange to trade for other digital assets like altcoins. This statement is not entirely exclusive though; most cryptocurrency exchanges will usually limit their users to only trade digital assets for digital assets, but a few allow trades of fiat currencies such as U.S. Dollars for cryptocurrencies. An example of such an exchange is Kraken, which currently accepts funds in the form of USD, JPY, CAD, and GBP, and supports trades with Monero, Ripple, and Litecoin as well as Bitcoin and Ethereum.
 
-But first, let's get back to basics. What is Blockchain, and how does it work?
+<span style="color:green">There’s no one crypto exchange that’s best for every user,</span> says Tyrone Ross, a financial advisor and CEO of Onramp Invest, a crypto investment platform for financial advisors. Instead, he says it helps to evaluate your own interests when it comes to crypto, and find an exchange that aligns with your goals. For example, maybe you’re looking for a specific coin, or you want to continue learning more as you get into crypto investing. 
 
-A blockchain is a file for storing data. Or, to put it in more technical terms, it's an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.
 
-So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name <b><span style="color:green">"blockchain."</span></b> As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.
+<b><span style="color:green">Things to look for in Crypto Exchanges.</span></b><br>
+ - Accessibility
+ - Security
+ - Fees
+ - Liquidity
+ - Coins offered
+ - Educational tools
+ - Storage
+ - Tax information
 
-Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it's because Bitcoin operates in the same way. <b><span style="color:green">Bitcoin</span></b> is the first example of Blockchain in action.
+These are some of the points which should be took in the consideration while choosing the appropriate crypto wallet to buy Crypto currencies.
+
 
 
 ---
@@ -29,3 +37,11 @@ Because the whole Blockchain is duplicated across many computers,  any user can 
 “What Is Blockchain Technology? - IBM Blockchain IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.
 
 ‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.
+
+“Want to Buy Crypto? Here’s What to Look for in a Crypto Exchange.” NextAdvisor with TIME, 11 June 2021, time.com/nextadvisor/investing/cryptocurrency/what-are-cryptocurrency-exchanges/.
+
+‌Wikipedia Contributors. “Cryptocurrency Exchange.” Wikipedia, Wikimedia Foundation, 19 Oct. 2021, en.wikipedia.org/wiki/Cryptocurrency_exchange.
+
+‌Ethos. “What Are Cryptocurrency Exchanges?” Ethos, Ethos.io PTE LTD, 26 Apr. 2018, www.ethos.io/what-are-cryptocurrency-exchanges/.
+
+‌
