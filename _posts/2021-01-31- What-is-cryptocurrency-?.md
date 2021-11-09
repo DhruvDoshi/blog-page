@@ -43,7 +43,7 @@ There are numerous things more which we need to understand to know more about th
 10. <a href="https://dhruvdoshi.github.io/blog/2019/09/09/what-is-cryptocurrency-atm">ATM's</a>
 11. <a href="https://dhruvdoshi.github.io/blog/2019/09/10/what-is-cryptocurrency-ico">Initial Coin Offering </a>
 
-You coulf find more information on all of these topics from the <a href="https://dhruvdoshi.github.io/blog">home</a> page.
+You could find more information on all of these topics from the <a href="https://dhruvdoshi.github.io/blog">home</a> page.
 
 
 ---
