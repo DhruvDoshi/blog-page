@@ -5,7 +5,7 @@ description: >-
   Here are some blogs majorly on Blockchian and Cryptocurrencies. This website comes up with the search feature and all the blogs are completely written in Markdown.
 lang: en-US
 timezone: America/Halifax
-repo: https://github.com/DhruvDoshi/blog # site repo [optional]
+repo: https://github.com/DhruvDoshi/blog1 # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
