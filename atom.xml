@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-11-09T15:40:50-04:00</updated>
+ <updated>2021-11-09T15:55:58-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -455,23 +455,19 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
  </entry>
  
  <entry>
-   <title>What is Blockchain?</title>
+   <title>What is Transaction Fees in Blockchain?</title>
    <link href="https://dhruvdoshi.github.io/blog/2019/09/06/what-is-transaction-fees-in-blockchain"/>
    <updated>2019-09-06T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/06/What-is-Transaction-Fees-in-Blockchain-?</id>
-   <content type="html">&lt;p&gt;Blockchain is the technology that allows the user to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;create a decentralized system of transaction and data transfers&lt;/span&gt;&lt;/b&gt;. For the naïve person, it is a method to create a people’s bank without central banks! Blockchain technology is used in the backend for each cryptocurrency. Talking about that, Blockchain is building the blocks of every critical data and then chaining the blocks. So if the last block or any previous block is changed or updated, then every information in the chain needs to be updated. This makes blockchain technology secure and more robust compared to other technologies.&lt;/p&gt;
+   <content type="html">&lt;p&gt;The blockchain fee is a cryptocurrency transaction fee that is &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;charged to users when performing crypto transactions.&lt;/span&gt;&lt;/b&gt; The fee is collected in order to process the transaction on the network.&lt;/p&gt;
 
-&lt;p&gt;Blockchain is a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network&lt;/span&gt;&lt;/b&gt;. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.&lt;/p&gt;
+&lt;p&gt;You need to pay the blockchain fee to ensure your cryptocurrency transfers arrive in a timely manner. The blockchain fee is &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;one of the main tools used to speed up crypto transactions,&lt;/span&gt;&lt;/b&gt; which are often slow due to high congestion on the blockchain network. The lower the blockchain fee, the lower your transaction’s priority in the blockchain network.&lt;/p&gt;
 
-&lt;p&gt;Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as “trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;cryptographic hash of the previous block and the timestamp&lt;/span&gt;&lt;/b&gt;, and the transaction data.&lt;/p&gt;
+&lt;p&gt;Transaction fees for cryptocurrency depend mainly on the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;supply of network capacity at the time,&lt;/span&gt;&lt;/b&gt; versus the demand from the currency holder for a faster transaction. The currency holder can choose a specific transaction fee, while network entities process transactions in order of highest offered fee to lowest. Cryptocurrency exchanges can simplify the process for currency holders by offering priority alternatives and thereby determine which fee will likely cause the transaction to be processed in the requested time.&lt;/p&gt;
 
-&lt;p&gt;But first, let’s get back to basics. What is Blockchain, and how does it work?&lt;/p&gt;
+&lt;p&gt;For ether, transaction fees differ by computational complexity, bandwidth use, and storage needs, while bitcoin transaction fees differ by transaction size and whether the transaction uses SegWit. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;In September 2018, the median transaction fee for ether corresponded to $0.017, while for bitcoin it corresponded to $0.55.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;A blockchain is a file for storing data. Or, to put it in more technical terms, it’s an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.&lt;/p&gt;
-
-&lt;p&gt;So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;“blockchain.”&lt;/span&gt;&lt;/b&gt; As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.&lt;/p&gt;
-
-&lt;p&gt;Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it’s because Bitcoin operates in the same way. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Bitcoin&lt;/span&gt;&lt;/b&gt; is the first example of Blockchain in action.&lt;/p&gt;
+&lt;p&gt;Some cryptocurrencies have no transaction fees, and instead rely on client-side proof-of-work as the transaction prioritization and anti-spam mechanism.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -480,6 +476,14 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
 &lt;p&gt;“What Is Blockchain Technology? - IBM Blockchain IBM.” Ibm.com, 2021, www.ibm.com/topics/what-is-blockchain.&lt;/p&gt;
 
 &lt;p&gt;‌Wikipedia Contributors. “Blockchain.” Wikipedia, Wikimedia Foundation, 16 Oct. 2021, en.wikipedia.org/wiki/Blockchain.&lt;/p&gt;
+
+&lt;p&gt;Binance Academy. “What Are Blockchain Transaction Fees?” Binance Academy, Binance Academy, 15 Mar. 2021, academy.binance.com/en/articles/what-are-blockchain-transaction-fees.&lt;/p&gt;
+
+&lt;p&gt;‌“Transaction-Fees.” Blockchain.com, 2016, www.blockchain.com/charts/transaction-fees.&lt;/p&gt;
+
+&lt;p&gt;‌“What Is the Blockchain Fee?” Wirexapp.com, 2021, wirexapp.com/help/article/what-is-the-blockchain-fee-0078.&lt;/p&gt;
+
+&lt;p&gt;‌Wikipedia Contributors. “Cryptocurrency.” Wikipedia, Wikimedia Foundation, 9 Nov. 2021, en.wikipedia.org/wiki/Cryptocurrency.&lt;/p&gt;
 </content>
  </entry>
  
