@@ -45,8 +45,8 @@ layout: default
         </li>
         {% endfor %} -->
         {% for post in site.posts %}
-            {% if post.pinned %}
-            Pinned Post!
+        Pinned Post!
+        {% if post.pinned %}
             <li>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
@@ -55,8 +55,8 @@ layout: default
         {% endfor %}
 
         {% for post in site.posts %}
-            {% unless post.pinned %}
-            Regular Post.
+        Regular Post.
+        {% unless post.pinned %}
             <li>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
