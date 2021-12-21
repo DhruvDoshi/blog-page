@@ -4,7 +4,7 @@ title: What is Cloud Computing?
 description: This blog emphasizes what is the meaning of cloud computing is!
 summary: Cloud computing is a vague term which could be used in number of scenarious connecting, storage or resource power. THis blog would put emphasis on what the cloud computing is and the advantages alongwith the sidadvantages with moving to the cloud computing.
 tags: [blockchain, cloud-computing]
-pinned: False
+pinned: True
 minute: 14
 
 ---
