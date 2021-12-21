@@ -4,6 +4,7 @@ title: Where could be Blockchain be used?
 description: where could be Blockchain be used?
 summary: This is the blog that includes information on where blockchain could be used.
 tags: blockchain
+pinned: False
 minute: 5
 ---
 

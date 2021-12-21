@@ -4,6 +4,7 @@ title: Why blockchain is portrayed as anonymous?
 description: This blog represents the information regarding the issue of anonymity in terms of blockchain 
 summary: The blog summarises the information regarding the Blockchain. 
 tags: blockchain
+pinned: False
 minute: 3
 ---
 

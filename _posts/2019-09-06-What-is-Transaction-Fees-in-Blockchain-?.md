@@ -4,6 +4,7 @@ title: What is Transaction Fees in Blockchain?
 description: The blockchain fee is a cryptocurrency transaction fee that is charged to users when performing crypto transactions. The fee is collected in order to process the transaction on the network.
 summary: Transaction fees for cryptocurrency depend mainly on the supply of network capacity at the time, versus the demand from the currency holder for a faster transaction. The currency holder can choose a specific transaction fee, while network entities process transactions in order of highest offered fee to lowest. Cryptocurrency exchanges can simplify the process for currency holders by offering priority alternatives and thereby determine which fee will likely cause the transaction to be processed in the requested time. 
 tags: blockchain
+pinned: False
 minute: 5
 ---
 

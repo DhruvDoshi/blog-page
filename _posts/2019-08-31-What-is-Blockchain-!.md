@@ -4,6 +4,7 @@ title: What is Blockchain?
 description: What is the Blockchain?
 summary: The blog summarises the information regarding the Blockchain. 
 tags: blockchain
+pinned: False
 minute: 3
 ---
 

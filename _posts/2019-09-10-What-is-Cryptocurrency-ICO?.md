@@ -4,6 +4,7 @@ title: What is the initial coin offering in Blockchain?
 description: This is the blog that describes how the Initial coin offering works, and how we need can host them to the exchanges. 
 summary:  An **initial coin offering (ICO)** or initial currency offering is a type of funding using cryptocurrencies. It is often a form of crowdfunding, although a private ICO which does not seek public investment is also possible. In an ICO, a quantity of cryptocurrency is sold in the form of "tokens" ("coins") to speculators or investors, in exchange for legal tender or other (generally established and more stable) cryptocurrencies such as **Bitcoin or Ether**. The tokens are promoted as future functional units of currency if or when the ICO's funding goal is met and the project successfully launches.
 tags: blockchain
+pinned: False
 minute: 3
 ---
 

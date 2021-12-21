@@ -4,6 +4,7 @@ title: What is cryptocurrency?
 description: This blog emphasizes what cryptocurrency means and how cryptocurrency is relevant in today's day and age.
 summary: A cryptocurrency, crypto-currency, or crypto is a collection of binary data which is designed to work as a medium of exchange wherein individual coin ownership records are stored in a ledger which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership.
 tags: blockchain
+pinned: True
 minute: 7
 
 ---

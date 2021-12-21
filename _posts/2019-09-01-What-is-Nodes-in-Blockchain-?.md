@@ -4,6 +4,7 @@ title: What is Nodes in Blockchain?
 description: The term “node” is being used mostly about blockchain, a decentralized digital ledger that records all cryptocurrency transactions and makes the information available to everyone via a connected device.
 summary: The term “node” is being used mostly about blockchain, a decentralized digital ledger that records all cryptocurrency transactions and makes the information available to everyone via a connected device. What this means is every transaction has to be chronologically recorded and distributed to a series of connected devices. These devices are called nodes. These nodes communicate with each other within the network and transfer information about transactions and new blocks. It is a critical component of the blockchain infrastructure. It helps maintain the security and integrity of the network. A blockchain node's main purpose is to verify each batch of network transactions, called blocks. Each node is distinguished from others by a unique identifier. 
 tags: blockchain
+pinned: False
 minute: 6
 ---
 

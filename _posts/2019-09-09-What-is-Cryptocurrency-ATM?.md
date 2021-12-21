@@ -4,6 +4,7 @@ title: What are ATMs in Cryptocurrency and Blockchain?
 description: kiosks that allow a person to purchase Bitcoin and other cryptocurrencies by using cash or debit card.
 summary: The blog summarises the information regarding the Blockchain. 
 tags: blockchain
+pinned: False
 minute: 3
 ---
 

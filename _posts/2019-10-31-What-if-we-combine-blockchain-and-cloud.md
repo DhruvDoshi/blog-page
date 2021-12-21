@@ -4,6 +4,7 @@ title: What if we combine Blockchain and Cloud Computing?
 description: How the architecture of blockchain and cloud computing would be looking like.
 summary: There is the reference of some research papers in this blog that includes information regarding how we could develop the blockchain-based cloud computing setup. I've referred to the IEEE research paper and tagged it in the references.
 tags: blockchain
+pinned: False
 minute: 3
 ---
 

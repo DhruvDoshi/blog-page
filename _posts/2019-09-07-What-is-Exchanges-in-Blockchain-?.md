@@ -4,6 +4,7 @@ title: What are Crypto Exchanges?
 description: What is the Blockchain?
 summary: The blog summarises the information regarding the Blockchain. 
 tags: blockchain
+pinned: False
 minute: 3
 ---
 

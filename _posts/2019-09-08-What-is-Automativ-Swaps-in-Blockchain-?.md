@@ -4,6 +4,7 @@ title: Automatic Swaps in Blockchain
 description: This blog will contain information regarding the automatic swaps in Blockchain.
 summary: An atomic swap is a smart contract technology that enables the exchange of one cryptocurrency for another without using centralized intermediaries, such as exchanges. 
 tags: blockchain
+pinned: False
 minute: 3
 ---
 

@@ -4,6 +4,7 @@ title: Time Stamping in Blockchain and Cryptocurrencies?
 description: The timestamp or timestamp is a small data stored in each block as a unique serial and whose main function is to determine the exact moment in which the block has been mined and validated by the blockchain network.
 summary: The temporal parameter, or timestamp, is based on an instantaneous adjustment that uses a median of the timestamps returned by all nodes of the network. One of the main uses of a timestamp is to establish the parameters of the process of mining is. This is because these timestamps allow nodes to correctly adjust the mining difficulty to be used for each block generation period. Timestamps help the network determine how long it takes to extract blocks for a certain period, and from there adjust the mining difficulty parameter.
 tags: blockchain
+pinned: False
 minute: 6
 ---
 

@@ -4,6 +4,8 @@ title: What is the weakness of Blockchain?? (Everything isn't perfect!!)
 description: Discuss the back draws of blockchain and explain them.
 summary: THis article consists of the back draws of blockchain technology. Mainly we have listed 5 of the drawbacks in the blockchain domain. There is an Image that could help to understand the issue more firmly.
 tags: blockchain
+pinned: False
+
 minute: 6
 ---
 

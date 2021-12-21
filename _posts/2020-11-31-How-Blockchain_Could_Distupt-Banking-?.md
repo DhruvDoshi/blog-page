@@ -4,6 +4,7 @@ title: How Blockchain Could Disrupt Banking Industry?
 description: This blog contains details that deal with the results of using blockchain technology in the banking industry. There are many references included in the blog which are from one of the topmost financial institutions like JP Morgan and Chase.
 summary: After the induction of blockchain technology in the finance sector the main question which prompts is, whether benks would be able to continue their dominance or there would be a scenario where the banks would collapse and would not be able to survive this hit. 
 tags: blockchain
+pinned: False
 minute: 15
 
 ---
