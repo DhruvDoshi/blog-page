@@ -39,12 +39,14 @@ layout: default
     <h2>BLOG</h2>
     <ul>
         {% for post in site.posts %}
+            PINNED POSTS
             {% if post.pinned %}
                 <li>
                     <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-                </li>>
+                </li>
             {% endif %}
+            REGULAR POSTS
             {% unless post.pinned %}
                 <li>
                     <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
