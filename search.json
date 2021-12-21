@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "What is Cloud Computing?",
+      "category" : "",
+      "tags"     : "blockchain, cloud-computing",
+      "url"      : "/blog/2021/02/15/what-is-cloud-computing",
+      "date"     : "2021-02-15 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "What is cryptocurrency?",
       "category" : "",
       "tags"     : "blockchain",
