@@ -22,6 +22,8 @@ There are five service models out of them top 3 are widely used and most of the 
 4. <a href="https://dhruvdoshi.github.io/blog/2019/09/03/what-is-mining-in-blockchain">Mobile backend as a Service (MBaaS)</a>
 5. <a href="https://dhruvdoshi.github.io/blog/2019/09/04/what-is-wallet-in-blockchain">Serverless computing or Function as a Service (FaaS)</a>
 
+<center><img src="https://1.cms.s81c.com/sites/default/files/2021-05-04/ICLH_Diagram_Batch_02_11-PaaS-IaaS-SaaS-Serverless-WHITEBG.png"></center>
+
 
 
 
