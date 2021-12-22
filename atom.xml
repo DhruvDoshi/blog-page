@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T15:30:53-04:00</updated>
+ <updated>2021-12-22T15:36:43-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -34,7 +34,10 @@ There are five service models out of them top 3 are widely used and most of the 
 
 &lt;!-- &lt;center&gt;&lt;img src=&quot;https://1.cms.s81c.com/sites/default/files/2021-05-04/ICLH_Diagram_Batch_02_11-PaaS-IaaS-SaaS-Serverless-WHITEBG.png&quot;&gt;&lt;/center&gt; --&gt;
 
-&lt;center&gt;&lt;img src=&quot;https://www.bigcommerce.com/blog/wp-content/uploads/2018/10/saas-vs-paas-vs-iaas-breakdown.jpg&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Control comparison between all major models&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;&amp;lt;img src=&quot;https://www.bigcommerce.com/blog/wp-content/uploads/2018/10/saas-vs-paas-vs-iaas-breakdown.jpg&quot; width=70% height=70%&amp;gt;&lt;/center&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Major Deployment Models&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
 To deply the cloud architecture there are three ways we could do. With private being the most used till today organizations are moving to use Hybrid cloud more nowadyas and also migrating towards also.&lt;/p&gt;
