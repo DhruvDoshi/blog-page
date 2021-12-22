@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T15:56:31-04:00</updated>
+ <updated>2021-12-22T16:03:25-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -37,7 +37,8 @@ There are five service models out of them top 3 are widely used and most of the 
 &lt;p&gt;&lt;br /&gt;
 &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Control comparison between all major models&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;/img/Iaas-Saas-Paas-comparison.png&quot; style=&quot;height:40%; width:80%;&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/XZiRPz8.png&quot; style=&quot;height:40%; width:80%;&quot; /&gt;&lt;/center&gt;
+&lt;!-- &lt;a href=&quot;https://imgur.com/XZiRPz8&quot;&gt;&lt;img src=&quot;https://i.imgur.com/XZiRPz8.png&quot; title=&quot;source: imgur.com&quot; /&gt;&lt;/a&gt; --&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Major Deployment Models&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
 To deply the cloud architecture there are three ways we could do. With private being the most used till today organizations are moving to use Hybrid cloud more nowadyas and also migrating towards also.&lt;/p&gt;
