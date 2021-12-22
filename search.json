@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Infrastructure as a Service(IaaS) - Cloud Computing",
+      "category" : "",
+      "tags"     : "cloud-computing",
+      "url"      : "/blog/2021/02/01/infrastructure-as-a-service",
+      "date"     : "2021-02-01 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "What is cryptocurrency?",
       "category" : "",
       "tags"     : "blockchain",

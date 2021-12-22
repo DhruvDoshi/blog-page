@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T16:03:25-04:00</updated>
+ <updated>2021-12-22T16:11:54-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -91,6 +91,49 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Infrastructure as a Service(IaaS) - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/01/infrastructure-as-a-service"/>
+   <updated>2021-02-01T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/01/Infrastructure-as-a-service</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;IAAS - Infrastructure as a Service&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Infrastructure as a service (IaaS) are online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup etc. A hypervisor, such as Xen, Oracle VirtualBox, Oracle VM, KVM, VMware ESX/ESXi, or Hyper-V runs the virtual machines as guests. Pools of hypervisors within the cloud operational system can support large numbers of virtual machines and the ability to scale services up and down according to customers’ varying requirements.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Advantages of IAAS&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+Taken in consideration there are many points which makes this model best for the cloud computing. Those are listed below.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pay As You Go&lt;/li&gt;
+  &lt;li&gt;Speed&lt;/li&gt;
+  &lt;li&gt;Avaliablity&lt;/li&gt;
+  &lt;li&gt;Scale&lt;/li&gt;
+  &lt;li&gt;Latency and Performance&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As listed, IAAS is better in all the terms compared to all other traditional models and all comparative models like PAAS and SAAS.&lt;/p&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What Is IaaS? IaaS Security in the Cloud&lt;/td&gt;
+      &lt;td&gt;McAfee. (2019). Retrieved December 22, 2021, from Mcafee.com website: https://www.mcafee.com/enterprise/en-ca/security-awareness/cloud/what-is-iaas.html&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Wikipedia Contributors. (2021, April 19). Infrastructure as a service. Retrieved December 22, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Infrastructure_as_a_service&lt;/p&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
