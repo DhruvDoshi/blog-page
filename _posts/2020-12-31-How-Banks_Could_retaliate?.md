@@ -4,7 +4,7 @@ title: How Banks could retaliate to the blockchain industry
 description: As per the previous blog it is evident that blockchain tech is coming for the banking and the finance industry, now in this section we would be listing that how banks could retaliate.
 summary: After having a threat big enough to take down the banks there are some plans on which banks are working to take down the growing blockchain solutions 
 tags: blockchain
-pinned: False
+pinned: True
 minute: 7
 
 ---
