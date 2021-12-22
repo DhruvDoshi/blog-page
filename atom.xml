@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T15:23:05-04:00</updated>
+ <updated>2021-12-22T15:28:41-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -32,7 +32,7 @@ There are five service models out of them top 3 are widely used and most of the 
   &lt;li&gt;&lt;a href=&quot;https://dhruvdoshi.github.io/blog/2019/09/04/what-is-wallet-in-blockchain&quot;&gt;Serverless computing or Function as a Service (FaaS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;center&gt;&lt;img src=&quot;https://1.cms.s81c.com/sites/default/files/2021-05-04/ICLH_Diagram_Batch_02_11-PaaS-IaaS-SaaS-Serverless-WHITEBG.png&quot; /&gt;&lt;/center&gt;
+&lt;!-- &lt;center&gt;&lt;img src=&quot;https://1.cms.s81c.com/sites/default/files/2021-05-04/ICLH_Diagram_Batch_02_11-PaaS-IaaS-SaaS-Serverless-WHITEBG.png&quot;&gt;&lt;/center&gt; --&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Major Deployment Models&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
 To deply the cloud architecture there are three ways we could do. With private being the most used till today organizations are moving to use Hybrid cloud more nowadyas and also migrating towards also.&lt;/p&gt;
@@ -56,7 +56,7 @@ To deply the cloud architecture there are three ways we could do. With private b
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Security and Privacy&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Cloud computing poses privacy concerns because the service provider can access the data that is in the cloud at any time. It could accidentally or deliberately alter or delete information.[122] Many cloud providers can share information with third parties if necessary for purposes of law and order without a warrant. That is permitted in their privacy policies, which users must agree to before they start using cloud services. Solutions to privacy include policy and legislation as well as end-users’ choices for how data is stored. Users can encrypt data that is processed or stored within the cloud to prevent unauthorized access. Identity management systems can also provide practical solutions to privacy concerns in cloud computing. These systems distinguish between authorized and unauthorized users and determine the amount of data that is accessible to each entity. The systems work by creating and describing identities, recording activities, and getting rid of unused identities.&lt;/p&gt;
+&lt;p&gt;Cloud computing poses privacy concerns because the service provider can access the data that is in the cloud at any time. It could accidentally or deliberately alter or delete information. Many cloud providers can share information with third parties if necessary for purposes of law and order without a warrant. That is permitted in their privacy policies, which users must agree to before they start using cloud services. Solutions to privacy include policy and legislation as well as end-users’ choices for how data is stored. Users can encrypt data that is processed or stored within the cloud to prevent unauthorized access. Identity management systems can also provide practical solutions to privacy concerns in cloud computing. These systems distinguish between authorized and unauthorized users and determine the amount of data that is accessible to each entity. The systems work by creating and describing identities, recording activities, and getting rid of unused identities.&lt;/p&gt;
 
 &lt;p&gt;According to the Cloud Security Alliance, the top three threats in the cloud are Insecure Interfaces and APIs, Data Loss &amp;amp; Leakage, and Hardware Failure—which accounted for 29%, 25% and 10% of all cloud security outages respectively. Together, these form shared technology vulnerabilities. In a cloud provider platform being shared by different users, there may be a possibility that information belonging to different customers resides on the same data server. Additionally, Eugene Schultz, chief technology officer at Emagined Security, said that hackers are spending substantial time and effort looking for ways to penetrate the cloud. “There are some real Achilles’ heels in the cloud infrastructure that are making big holes for the bad guys to get into”. Because data from hundreds or thousands of companies can be stored on large cloud servers, hackers can theoretically gain control of huge stores of information through a single attack—a process he called “hyperjacking”. Some examples of this include the Dropbox security breach, and iCloud 2014 leak. Dropbox had been breached in October 2014, having over 7 million of its users passwords stolen by hackers in an effort to get monetary value from it by Bitcoins (BTC). By having these passwords, they are able to read private data as well as have this data be indexed by search engines (making the information public).&lt;/p&gt;
 
