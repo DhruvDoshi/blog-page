@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Platform as a Service(PaaS) - Cloud Computing",
+      "category" : "",
+      "tags"     : "cloud-computing",
+      "url"      : "/blog/2021/02/03/platform-as-a-service",
+      "date"     : "2021-02-03 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Software as a Service(SaaS) - Cloud Computing",
       "category" : "",
       "tags"     : "cloud-computing",

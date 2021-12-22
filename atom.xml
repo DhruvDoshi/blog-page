@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T16:22:35-04:00</updated>
+ <updated>2021-12-22T17:09:47-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -91,6 +91,56 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Platform as a Service(PaaS) - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/03/platform-as-a-service"/>
+   <updated>2021-02-03T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/03/Platform-as-a-service</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;PAAS - Platform as a Service&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Platform as a service (PaaS) or application platform as a service (aPaaS) or platform-based service is a category of cloud computing services that allows customers to provision, instantiate, run, and manage a modular bundle comprising a computing platform and one or more applications, without the complexity of building and maintaining the infrastructure typically associated with developing and launching the application(s); and to allow developers to create, develop, and package such software bundles.&lt;/p&gt;
+
+&lt;p&gt;Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications. You purchase the resources you need from a cloud service provider on a pay-as-you-go basis and access them over a secure Internet connection.&lt;/p&gt;
+
+&lt;p&gt;Like IaaS, PaaS includes infrastructure – servers, storage and networking – but also middleware, development tools, business intelligence (BI) services, database management systems and more. PaaS is designed to support the complete web application life cycle: building, testing, deploying, managing, and updating.&lt;/p&gt;
+
+&lt;p&gt;PaaS allows you to avoid the expense and complexity of buying and managing software licences, the underlying application infrastructure and middleware, container orchestrators such as Kubernetes or the development tools and other resources. You manage the applications and services that you develop, and the cloud service provider typically manages everything else.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Advantages of PAAS&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+Taken in consideration there are many points which makes this model best for the cloud computing. Those are listed below.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cut coding times&lt;/li&gt;
+  &lt;li&gt;Adding development capablities without adding more staff&lt;/li&gt;
+  &lt;li&gt;Develop for multiple platforms – including mobile – more easily&lt;/li&gt;
+  &lt;li&gt;Use sophisticated tools affordably&lt;/li&gt;
+  &lt;li&gt;Support geographically distributed development teams&lt;/li&gt;
+  &lt;li&gt;Efficiently manage the application life cycle&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As listed, PAAS is better in all the terms compared to all other traditional models and all comparative models like PAAS and IAAS.&lt;/p&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What is PaaS? Platform as a Service&lt;/td&gt;
+      &lt;td&gt;Microsoft Azure. (2021). Retrieved December 22, 2021, from Microsoft.com website: https://azure.microsoft.com/en-ca/overview/what-is-paas/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌Wikipedia Contributors. (2021, December 18). Platform as a service. Retrieved December 22, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Platform_as_a_service&lt;/p&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
