@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T16:11:54-04:00</updated>
+ <updated>2021-12-22T16:22:35-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -91,6 +91,50 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Software as a Service(SaaS) - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/02/software-as-a-service"/>
+   <updated>2021-02-02T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/02/Software-as-a-service</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;SAAS - Software as a Service&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;SaaS stands for software as a service, which means software is hosted by a third-party provider and delivered to customers over the internet as a service. While most SaaS products are aimed at business users, some products have proved popular with individual consumers, like note-taking app Evernote or personal finance tools like TurboTax and Mint.&lt;/p&gt;
+
+&lt;p&gt;In business settings, users access productivity applications or enterprise software from a service provider instead of from their company’s private data center. Microsoft 365 and Salesforce are common examples of such SaaS software used in business that had been previously hosted and distributed by businesses’ own data centers.&lt;/p&gt;
+
+&lt;p&gt;SaaS is a marked difference to the old model of making a one-off purchase of software that must be hosted, implemented, and maintained by the buyers themselves.&lt;/p&gt;
+
+&lt;p&gt;The SaaS delivery model is enabled by a multitenant architecture, where a service provider can distribute multiple versions of the same software from a single physical server. Each user or business has its own version of the application, with the associated customizations, data, and access controls, but from a shared code base that can be patched, updated, and maintained centrally.&lt;/p&gt;
+
+&lt;p&gt;As a result, software can be purchased by individuals or for a select group of users and paid for on a monthly or annual subscription basis per “seat,” instead of making a large upfront investment in a perpetual (permanent) license, starting a lengthy implementation, and committing to years of maintenance, upgrades, and support contracts.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Advantages of SAAS&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+Taken in consideration there are many points which makes this model best for the cloud computing. Those are listed below.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Reduced time to Benifit&lt;/li&gt;
+  &lt;li&gt;Lower Costs&lt;/li&gt;
+  &lt;li&gt;Scalablity and Integration&lt;/li&gt;
+  &lt;li&gt;New Releases / Upgrades&lt;/li&gt;
+  &lt;li&gt;Easy to use and perform proof-of-concepts&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As listed, SAAS is better in all the terms compared to all other traditional models and all comparative models like PAAS and IAAS.&lt;/p&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;p&gt;Carey, S. (2021, July 22). What is SaaS? Software as a service defined. Retrieved December 22, 2021, from InfoWorld website: https://www.infoworld.com/article/3226386/what-is-saas-software-as-a-service-defined.html&lt;/p&gt;
+
+&lt;p&gt;‌Top 5 Advantages of Software as a Service (SaaS). (2020, September 18). Retrieved December 22, 2021, from Ibm.com website: https://www.ibm.com/cloud/blog/top-5-advantages-of-software-as-a-service&lt;/p&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  

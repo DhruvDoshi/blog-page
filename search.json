@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Software as a Service(SaaS) - Cloud Computing",
+      "category" : "",
+      "tags"     : "cloud-computing",
+      "url"      : "/blog/2021/02/02/software-as-a-service",
+      "date"     : "2021-02-02 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Infrastructure as a Service(IaaS) - Cloud Computing",
       "category" : "",
       "tags"     : "cloud-computing",
