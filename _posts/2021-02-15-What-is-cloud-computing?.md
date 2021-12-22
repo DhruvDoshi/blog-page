@@ -25,6 +25,9 @@ There are five service models out of them top 3 are widely used and most of the 
 <!-- <center><img src="https://1.cms.s81c.com/sites/default/files/2021-05-04/ICLH_Diagram_Batch_02_11-PaaS-IaaS-SaaS-Serverless-WHITEBG.png"></center> -->
 
 
+<center><img src="https://www.bigcommerce.com/blog/wp-content/uploads/2018/10/saas-vs-paas-vs-iaas-breakdown.jpg"></center>
+
+
 <b><span style="color:green">Major Deployment Models</span></b><br>
 To deply the cloud architecture there are three ways we could do. With private being the most used till today organizations are moving to use Hybrid cloud more nowadyas and also migrating towards also.
 
