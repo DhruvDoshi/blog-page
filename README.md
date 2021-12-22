@@ -32,7 +32,7 @@ Original theme from [Sidey](https://github.com/ronv/sidey).
 Run local server:
 
 ```bash
-$ git clone https://github.com/P0WEX/Gesko.git
+$ git clone https://github.com/DhruvDoshi/blog
 $ cd Gesko
 $ bundle install
 $ bundle exec jekyll build
