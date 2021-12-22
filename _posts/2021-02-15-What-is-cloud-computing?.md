@@ -27,7 +27,7 @@ There are five service models out of them top 3 are widely used and most of the 
 <br>
 <b><span style="color:green">Control comparison between all major models</span></b><br>
 
-<center><img src="https://www.bigcommerce.com/blog/wp-content/uploads/2018/10/saas-vs-paas-vs-iaas-breakdown.jpg" width=70% height=70%></center>
+<center><img src="https://www.bigcommerce.com/blog/wp-content/uploads/2018/10/saas-vs-paas-vs-iaas-breakdown.jpg" style="height:40%; width:80%;"></center>
 
 
 <b><span style="color:green">Major Deployment Models</span></b><br>
