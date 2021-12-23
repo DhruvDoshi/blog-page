@@ -34,10 +34,20 @@ In the following image we have the comparison between the different service mode
 <b><span style="color:green">Major Deployment Models</span></b><br>
 To deply the cloud architecture there are three ways we could do. With private being the most used till today organizations are moving to use Hybrid cloud more nowadyas and also migrating towards also.
 
+The following images displays that what each cloud models offer to the users,
 
-1. <a href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain">Private Cloud</a>
-2. <a href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain">Public Cloud</a>
-3. <a href="https://dhruvdoshi.github.io/blog/2019/09/02/what-is-timestamping-in-blockchain">Hybrid Cloud </a>
+<center><img src="https://i.imgur.com/cDeVyAA.png" style="height:40%; width:80%;"></center><br>
+
+<br>
+The following image puts more emphasis on the comparison across all three cloud models/
+
+<center><img src="https://i.imgur.com/eN2sOKk.jpg" style="height:40%; width:80%;"></center><br>
+
+
+Read more about them here,
+1. <a href="https://dhruvdoshi.github.io/blog/2021/02/07/private-cloud-in-cloud-computing">Private Cloud</a>
+2. <a href="https://dhruvdoshi.github.io/blog/2021/02/06/public-cloud-in-cloud-computing">Public Cloud</a>
+3. <a href="https://dhruvdoshi.github.io/blog/2021/02/08/hybrid-cloud-in-cloud-computing">Hybrid Cloud </a>
 
 
 <b><span style="color:green">Other Deployment Models</span></b><br>
