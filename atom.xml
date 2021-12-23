@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T23:11:15-04:00</updated>
+ <updated>2021-12-23T11:56:54-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -91,6 +91,104 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hybrid Cloud - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/08/hybrid-cloud-in-cloud-computing"/>
+   <updated>2021-02-08T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/08/Hybrid-cloud-in-cloud-computing</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;HYBRID CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hybrid cloud refers to a mixed computing, storage, and services environment made up of on-premises infrastructure, private cloud services, and a public cloud—such as Amazon Web Services (AWS) or Microsoft Azure—with orchestration among the various platforms. Using a combination of public clouds, on-premises computing, and private clouds in your data center means that you have a hybrid cloud infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Hybrid cloud is an IT architecture that incorporates some degree of workload portability, orchestration, and management across 2 or more environments. Depending on whom you ask, those environments may need to include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;At least 1 private cloud and at least 1 public cloud&lt;/li&gt;
+  &lt;li&gt;2 or more private clouds&lt;/li&gt;
+  &lt;li&gt;2 or more public clouds&lt;/li&gt;
+  &lt;li&gt;A bare-metal or virtual environment connected to at least 1 cloud—public or private&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These varying requirements are an evolution from the earlier age of cloud computing, where the differences between public clouds and private clouds were easily defined by location and ownership. But today’s cloud types are far more complex, because location and ownership are abstract considerations. For example:&lt;/p&gt;
+
+&lt;p&gt;Public clouds traditionally ran off-premises, but public cloud providers are now running cloud services on their clients’ on-premise data centers.&lt;/p&gt;
+
+&lt;p&gt;Private clouds traditionally ran on-premises, but organizations are now building private clouds on rented, vendor-owned data centers located off-premises.&lt;/p&gt;
+
+&lt;p&gt;This is why it can be more helpful to define hybrid cloud computing by what it does. All hybrid clouds should:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Connect multiple computers through a network.&lt;/li&gt;
+  &lt;li&gt;Consolidate IT resources.&lt;/li&gt;
+  &lt;li&gt;Scale out and quickly provision new resources.&lt;/li&gt;
+  &lt;li&gt;Be able to move workloads between environments.&lt;/li&gt;
+  &lt;li&gt;Incorporate a single, unified management tool.&lt;/li&gt;
+  &lt;li&gt;Orchestrate processes with the help of automation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;How to build HYBRID CLOUD ?&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hybrid clouds used to be the result of literally connecting a private cloud envrionment to a public cloud environment using massive, complex iterations of middleware. You could build that private cloud on your own, or you could use prepackaged cloud infrastructure like OpenStack®. You would also need a public cloud, like one of the few listed below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://us.alibabacloud.com/en&quot;&gt;Alibaba Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/&quot;&gt;Amazon Web Services (AWS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/&quot;&gt;Google Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ibm.com/cloud&quot;&gt;IBM Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-gb/&quot;&gt;Microsoft Azure&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, you would need to link the public cloud to the private cloud. Moving huge amounts of resources among these environments require powerful middleware, or a preconfigured VPN that many cloud service providers give customers as part of their subscription packages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/network-connectivity/docs/interconnect/concepts/dedicated-overview&quot;&gt;Google Cloud offers Dedicated Interconnect.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/directconnect/&quot;&gt;Amazon Web Services (AWS) offers Direct Connect.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/services/expressroute/&quot;&gt;Microsoft Azure offers ExpressRoute.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openstack.org/passport/&quot;&gt;OpenStack provides the OpenStack Public Cloud Passport.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Advantages of HYBRID CLOUD?&lt;/span&gt;&lt;br /&gt;
+Although cloud services can drive cost savings, their main value lies in supporting a fast-moving digital business transformation. Every technology management organization runs under two agendas: the IT agenda and the business transformation agenda. Typically, the IT agenda has been focused on saving money. However, digital business transformation agendas are focused on investments to make money.&lt;/p&gt;
+
+&lt;p&gt;The primary benefit of a hybrid cloud is agility. The need to adapt and change direction quickly is a core principle of a digital business. Your enterprise might want (or need) to combine public clouds, private clouds, and on-premises resources to gain the agility it needs for a competitive advantage.&lt;/p&gt;
+
+&lt;p&gt;No matter which definition of hybrid cloud that you use, the benefits are the same: When computing and processing demand increases beyond an on-premises data centre’s capabilities, businesses can use the cloud to instantly scale capacity up or down to handle excess capacity. It also allows them to avoid the time and cost of purchasing, installing and maintaining new servers that they may not always need.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Security of HYBRID CLOUD?&lt;/span&gt;&lt;br /&gt;
+A properly designed, integrated, and managed hybrid cloud can be as secure as traditional on-premise IT infrastructure. While there are some unique hybrid cloud security challenges (like data migration, increased complexity, and a larger attack surface), the presence of multiple environments can be one of the strongest defenses against security risks. All those interconnected environments let enterprises choose where to place sensitive data based on requirements, and it lets security teams standardize redundant cloud storage that can augment disaster recovery efforts.&lt;/p&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What Is Hybrid Cloud? - Benefits and Advantages of a Hybrid Cloud&lt;/td&gt;
+      &lt;td&gt;NetApp. (2021). Retrieved December 23, 2021, from Netapp.com website: https://www.netapp.com/hybrid-cloud/what-is-hybrid-cloud/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌Sai Vennam. (2021, May 12). hybrid-cloud. Retrieved December 23, 2021, from Ibm.com website: https://www.ibm.com/cloud/learn/hybrid-cloud&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;‌What is hybrid cloud computing – Definition&lt;/td&gt;
+      &lt;td&gt;Microsoft Azure. (2021). Retrieved December 23, 2021, from Microsoft.com website: https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌What is hybrid cloud? (2021). Retrieved December 23, 2021, from Redhat.com website: https://www.redhat.com/en/topics/cloud-computing/what-is-hybrid-cloud&lt;/p&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
