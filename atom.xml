@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T22:25:07-04:00</updated>
+ <updated>2021-12-22T22:38:42-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -95,6 +95,80 @@ There are immense potential in cloud computing and features which could be extra
  </entry>
  
  <entry>
+   <title>Serverless Computing or Function as a Service(FaaS) - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/05/serverless-computing-as-a-service"/>
+   <updated>2021-02-05T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/05/Serverless-Computing-as-a-service</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;FAAS - Function as a Service&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Function-as-a-Service (FaaS) is a serverless way to execute modular pieces of code on the edge. FaaS lets developers write and update a piece of code on the fly, which can then be executed in response to an event, such as a user clicking on an element in a web application. This makes it easy to scale code and is a cost-efficient way to implement microservices.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;How FAAS works?&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;FaaS gives developers an abstraction for running web applications in response to events, without managing servers. For example, uploading a file could trigger custom code that transcodes the file into a variety of formats.&lt;/p&gt;
+
+&lt;p&gt;FaaS infrastructure is usually metered on-demand by the service provider, primarily through an event-driven execution model, so it’s there when you need it but it doesn’t require any server processes to be running constantly in the background, like platform-as-a-service (PaaS) would.&lt;/p&gt;
+
+&lt;p&gt;Modern PaaS solutions offer serverless capabilities as part of common workflows that developers can use to deploy applications, blurring the lines between PaaS and FaaS.&lt;/p&gt;
+
+&lt;p&gt;In reality, entire applications will be composed of a mix of these solutions: functions, microservices, and long running services&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;What are Microservices ?&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;If a web application were a work of visual art, using microservice architecture would be like making the art out of a collection of mosaic tiles. The artist can easily add, replace, and repair one tile at a time. Monolithic architecture would be like painting the entire work on a single piece of canvas.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/4e84fm8.png&quot; style=&quot;height:40%; width:80%;&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This approach of building an application out of a set of modular components is known as microservice architecture. Dividing an application into microservices is appealing to developers because it means they can create and modify small pieces of code which can be easily implemented into their codebases. This is in contrast to monolithic architecture, in which all the code is interwoven into one large system. With large monolithic systems, even a minor changes to the application requires a hefty deploy process. FaaS eliminates this deploy complexity.&lt;/p&gt;
+
+&lt;p&gt;Using serverless code like FaaS, web developers can focus on writing application code, while the serverless provider takes care of server allocation and backend services.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Popular FAAS providers&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.ibm.com/functions/&quot;&gt;IBM Cloud Functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/lambda/&quot;&gt;Amazon AWS Lambda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/functions&quot;&gt;Google Cloud Function&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/azure/azure-functions/&quot;&gt;Microsoft Azure function&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openfaas.com/&quot;&gt;OpenFaaS (OpenSource)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Advantages of FAAS&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+Taken in consideration there are many points which makes this model best for the cloud computing. Those are listed below.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Improved developer velocity&lt;/li&gt;
+  &lt;li&gt;Builtin scalablity&lt;/li&gt;
+  &lt;li&gt;Cost efficiency&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As listed, MBAAS is better in all the terms compared to all other traditional models and all comparative models like PAAS and IAAS.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Disadvantages of FAAS&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Less System Control&lt;/li&gt;
+  &lt;li&gt;More difficult to test the system&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;p&gt;What is Function-as-a-Service (FaaS)? (2021). Retrieved December 23, 2021, from Cloudflare website: https://www.cloudflare.com/en-gb/learning/serverless/glossary/function-as-a-service-faas/&lt;/p&gt;
+
+&lt;p&gt;‌What is FaaS? (2021). Retrieved December 23, 2021, from Redhat.com website: https://www.redhat.com/en/topics/cloud-native-apps/what-is-faas&lt;/p&gt;
+
+&lt;p&gt;‌Wikipedia Contributors. (2021, December 9). Function as a service. Retrieved December 23, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Function_as_a_service&lt;/p&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Mobile Backend as a Service(MBaaS) - Cloud Computing</title>
    <link href="https://dhruvdoshi.github.io/blog/2021/02/04/mobile-backend-as-a-service"/>
    <updated>2021-02-04T00:00:00-04:00</updated>
@@ -133,16 +207,15 @@ Taken in consideration there are many points which makes this model best for the
 
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;What is PaaS? Platform as a Service&lt;/td&gt;
-      &lt;td&gt;Microsoft Azure. (2021). Retrieved December 22, 2021, from Microsoft.com website: https://azure.microsoft.com/en-ca/overview/what-is-paas/&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Wikipedia Contributors. (2021, December 1). Mobile backend as a service. Retrieved December 23, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Mobile_backend_as_a_service&lt;/p&gt;
 
-&lt;p&gt;‌Wikipedia Contributors. (2021, December 18). Platform as a service. Retrieved December 22, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Platform_as_a_service&lt;/p&gt;
+&lt;p&gt;‌Fanchi, C. (2021, May 11). What Is Mobile Backend As A Service… Retrieved December 23, 2021, from Backendless website: https://backendless.com/what-is-mobile-backend-as-a-service-mbaas/&lt;/p&gt;
+
+&lt;p&gt;‌mBaaS providers: Top 10 options. (2019, October 28). Retrieved December 23, 2021, from Back4App Blog website: https://blog.back4app.com/mbaas-providers/&lt;/p&gt;
+
+&lt;p&gt;‌MBaaS vs PaaS - What’s the Difference? (2019, October 23). Retrieved December 23, 2021, from Back4App Blog website: https://blog.back4app.com/mbaas-vs-paas/#Key_advantages_of_MBaaS&lt;/p&gt;
+
+&lt;p&gt;‌Mobile Backend as a Service (mBaaS) - what is it? (2019, September 17). Retrieved December 23, 2021, from Kumulos website: https://www.kumulos.com/what-is-mobile-backend-as-a-service-mbaas/&lt;/p&gt;
 
 &lt;p&gt;‌&lt;/p&gt;
 </content>

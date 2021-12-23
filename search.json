@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Serverless Computing or Function as a Service(FaaS) - Cloud Computing",
+      "category" : "",
+      "tags"     : "cloud-computing",
+      "url"      : "/blog/2021/02/05/serverless-computing-as-a-service",
+      "date"     : "2021-02-05 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Mobile Backend as a Service(MBaaS) - Cloud Computing",
       "category" : "",
       "tags"     : "cloud-computing",
