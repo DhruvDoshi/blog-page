@@ -9,9 +9,17 @@
     } ,
   
     {
+      "title"    : "Community Cloud - Cloud Computing",
+      "category" : "",
+      "tags"     : "cloud-computing",
+      "url"      : "/blog/2021/02/09/community-cloud-in-cloud-computing",
+      "date"     : "2021-02-09 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Hybrid Cloud - Cloud Computing",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "cloud-computing",
       "url"      : "/blog/2021/02/08/hybrid-cloud-in-cloud-computing",
       "date"     : "2021-02-08 00:00:00 -0400"
     } ,

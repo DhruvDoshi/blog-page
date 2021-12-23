@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-23T12:02:51-04:00</updated>
+ <updated>2021-12-23T15:52:00-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -103,6 +103,75 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Community Cloud - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/09/community-cloud-in-cloud-computing"/>
+   <updated>2021-02-09T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/09/Community-cloud-in-cloud-computing</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;COMMUNITY CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+Community cloud computing refers to a shared cloud computing service environment that is targeted to a limited set of organizations or employees (such as banks or heads of trading firms). The organizing principle for the community will vary, but the members of the community generally share similar security, privacy, performance and compliance requirements. Community members may wish to invoke a mechanism that is often run by themselves (not just the provider) to review those seeking entry into the community.&lt;/p&gt;
+
+&lt;p&gt;The implementation of a community cloud is more complicated than other types of clouds. This is because of the number of players involved. Decisions are no longer standalone, and, as a result, a handbook needs to be established at the outset, which must cover:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mission statements&lt;/li&gt;
+  &lt;li&gt;Ownership of services and resources&lt;/li&gt;
+  &lt;li&gt;An economic model of shared cloud and services&lt;/li&gt;
+  &lt;li&gt;Resource allocation and maintenance&lt;/li&gt;
+  &lt;li&gt;Industry regulations binding each organization&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Despite the startup costs and inevitable teething problems, as per industry estimates, the community cloud market is estimated to reach $12.8 billion by 2027 from $2.6 billion in 2020. This is because the benefits of a community cloud currently outweigh the challenges.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Architecture for COMMUNITY CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+In the below image the architecture of community cloud is explained.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/M3fU55v.png&quot; style=&quot;height:40%; width:80%;&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Advantages for COMMUNITY CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cost Effectiveness&lt;/li&gt;
+  &lt;li&gt;Regulatory Compliance&lt;/li&gt;
+  &lt;li&gt;Industry based security compliance&lt;/li&gt;
+  &lt;li&gt;High Avaliablity&lt;/li&gt;
+  &lt;li&gt;More Control&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Best practices for COMMUNITY CLOUD implementations&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+To implement the community cloud major things should be taken in the consideration which are further explained in the image and listed below also.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/w5r9maj.png&quot; style=&quot;height:40%; width:80%;&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Evaluate and narrow down on the cloud management system&lt;/li&gt;
+  &lt;li&gt;Document the terms of shared ownership&lt;/li&gt;
+  &lt;li&gt;Determine procurement and cost management&lt;/li&gt;
+  &lt;li&gt;Address security requirements and patch management&lt;/li&gt;
+  &lt;li&gt;Decide on a data segmentation plan&lt;/li&gt;
+  &lt;li&gt;Ensure change management&lt;/li&gt;
+  &lt;li&gt;Factor in scalability and migration&lt;/li&gt;
+  &lt;li&gt;Plan backup and disaster recovery&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Building a community cloud involves more focus on business processes and cooperation than technical considerations. After all, a community cloud is just a modified private cloud. A community cloud can be a powerful tool for businesses with the same objectives and requirements. It can even serve as a background for industry-based innovations. When deciding on infrastructure migration to the cloud, private and public clouds are not the only options; community clouds can also fit the bill.&lt;/p&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;p&gt;Definition of Community Cloud - Gartner Information Technology Glossary. (2012). Retrieved December 23, 2021, from Gartner website: https://www.gartner.com/en/information-technology/glossary/community-cloud&lt;/p&gt;
+
+&lt;p&gt;‌Wikipedia Contributors. (2021, March 16). Community cloud. Retrieved December 23, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Community_cloud&lt;/p&gt;
+
+&lt;p&gt;‌Toolbox. (2021, August 5). What Is Community Cloud? Definition, Architecture, Examples, and Best Practices - Toolbox. Retrieved December 23, 2021, from Toolbox website: https://www.toolbox.com/tech/cloud/articles/what-is-community-cloud/&lt;/p&gt;
 </content>
  </entry>
  
