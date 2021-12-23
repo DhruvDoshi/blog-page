@@ -16,19 +16,20 @@ Cloud computing is the on-demand availability of computer system resources, espe
 <b><span style="color:green">Service Models</span></b><br>
 There are five service models out of them top 3 are widely used and most of the content ofinternet uses these kind of service models.
 
-1. <a href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain">Infrastructure as a Service (Iaas)</a>
+1. <a href="https://dhruvdoshi.github.io/blog//2021/02/01/infrastructure-as-a-service">Infrastructure as a Service (Iaas)</a>
 2. <a href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain">Platform as a Service (PaaS)</a>
-3. <a href="https://dhruvdoshi.github.io/blog/2019/09/02/what-is-timestamping-in-blockchain">Software as a Service (SaaS)</a>
-4. <a href="https://dhruvdoshi.github.io/blog/2019/09/03/what-is-mining-in-blockchain">Mobile backend as a Service (MBaaS)</a>
-5. <a href="https://dhruvdoshi.github.io/blog/2019/09/04/what-is-wallet-in-blockchain">Serverless computing or Function as a Service (FaaS)</a>
+3. <a href="https://dhruvdoshi.github.io/blog/2021/02/02/software-as-a-service">Software as a Service (SaaS)</a>
+4. <a href="https://dhruvdoshi.github.io/blog/2021/02/04/mobile-backend-as-a-service">Mobile backend as a Service (MBaaS)</a>
+5. <a href="https://dhruvdoshi.github.io/blog/2021/02/05/serverless-computing-as-a-service">Serverless computing or Function as a Service (FaaS)</a>
 
-<!-- <center><img src="https://1.cms.s81c.com/sites/default/files/2021-05-04/ICLH_Diagram_Batch_02_11-PaaS-IaaS-SaaS-Serverless-WHITEBG.png"></center> -->
 
 <br>
 <b><span style="color:green">Control comparison between all major models</span></b><br>
 
-<center><img src="https://i.imgur.com/XZiRPz8.png" style="height:40%; width:80%;"></center>
-<!-- <a href="https://imgur.com/XZiRPz8"><img src="https://i.imgur.com/XZiRPz8.png" title="source: imgur.com" /></a> -->
+In the following image we have the comparison between the different service models which gives us the insight about the  amount of access and the control we have while using this service models. 
+
+<center><img src="https://i.imgur.com/XZiRPz8.png" style="height:40%; width:80%;"></center><br>
+
 
 <b><span style="color:green">Major Deployment Models</span></b><br>
 To deply the cloud architecture there are three ways we could do. With private being the most used till today organizations are moving to use Hybrid cloud more nowadyas and also migrating towards also.
