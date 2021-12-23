@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Public Cloud - Cloud Computing",
+      "category" : "",
+      "tags"     : "cloud-computing",
+      "url"      : "/blog/2021/02/06/public-cloud-in-cloud-computing",
+      "date"     : "2021-02-06 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Serverless Computing or Function as a Service(FaaS) - Cloud Computing",
       "category" : "",
       "tags"     : "cloud-computing",
