@@ -43,8 +43,14 @@ You could find more information on all of these topics from the <a href="https:/
 
 #### REFERENCES
 
-What is PaaS? Platform as a Service | Microsoft Azure. (2021). Retrieved December 22, 2021, from Microsoft.com website: https://azure.microsoft.com/en-ca/overview/what-is-paas/
+Wikipedia Contributors. (2021, December 1). Mobile backend as a service. Retrieved December 23, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Mobile_backend_as_a_service
 
-‌Wikipedia Contributors. (2021, December 18). Platform as a service. Retrieved December 22, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Platform_as_a_service
+‌Fanchi, C. (2021, May 11). What Is Mobile Backend As A Service... Retrieved December 23, 2021, from Backendless website: https://backendless.com/what-is-mobile-backend-as-a-service-mbaas/
+
+‌mBaaS providers: Top 10 options. (2019, October 28). Retrieved December 23, 2021, from Back4App Blog website: https://blog.back4app.com/mbaas-providers/
+
+‌MBaaS vs PaaS - What’s the Difference? (2019, October 23). Retrieved December 23, 2021, from Back4App Blog website: https://blog.back4app.com/mbaas-vs-paas/#Key_advantages_of_MBaaS
+
+‌Mobile Backend as a Service (mBaaS) - what is it? (2019, September 17). Retrieved December 23, 2021, from Kumulos website: https://www.kumulos.com/what-is-mobile-backend-as-a-service-mbaas/
 
 ‌
