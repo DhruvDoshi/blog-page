@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-22T23:00:03-04:00</updated>
+ <updated>2021-12-22T23:11:15-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -91,6 +91,68 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Private Cloud - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/07/private-cloud-in-cloud-computing"/>
+   <updated>2021-02-07T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/07/Private-cloud-in-cloud-computing</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;PRIVATE CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Private cloud is a cloud computing environment dedicated to a single customer. It combines many of the benefits of cloud computing with the security and control of on-premises IT infrastructure.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;How PRIVATE CLOUD works?&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Private cloud is a single-tenant environment, meaning all resources are accessible to one customer only—this is referred to as isolated access. Private clouds are typically hosted on-premises in the customer’s data center. But, private clouds can also be hosted on an independent cloud provider’s infrastructure or built on rented infrastructure housed in an offsite data center. Management models also vary—the customer can manage everything itself or outsource partial or full management to a service provider.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;How PRIVATE CLOUD architecture looks like?&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Single-tenant design aside, private cloud is based on the same technologies as other clouds—technologies that enable the customer to provision and configure virtual servers and computing resources on demand in order to quickly and easily (or even automatically) scale in response to spikes in usage and traffic, to implement redundancy for high availability, and to optimize utilization of resources overall.&lt;/p&gt;
+
+&lt;p&gt;These technologies include the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;b&gt;Virtualization&lt;/b&gt;, which enables IT resources to be abstracted from their underlying physical hardware and pooled into unbounded resource pools of computing, storage, memory, and networking capacity that can then portioned among multiple virtual machines (VMs), containers, or other virtualized IT infrastructure elements. By removing the constraints of physical hardware, virtualization enables maximum utilization of hardware, allows hardware to be shared efficiently across multiple users and applications, and makes possible the scalability, agility, and elasticity of the cloud.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Management software&amp;lt;/b.&amp;gt; gives administrators centralized control over the infrastructure and applications running on it. This makes it possible to optimize security, availability, and resource utilization in the private cloud environment.&lt;br.&gt;&lt;/br.&gt;&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Automation speeds&lt;/b&gt; tasks—such as server provisioning and integrations—that would otherwise need to be performed manually and repeatedly. Automation reduces the need for human intervention, making self-service resource delivery possible.&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In addition, private cloud users can adopt cloud native application architectures and practices—such as DevOps, containers, and microservices—that can bring even greater efficiency and flexibility and enable a smooth transition to a public cloud or hybrid cloud environment in the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Advantages of PRIVATE CLOUD?&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Full control over hardware and software choices&lt;/li&gt;
+  &lt;li&gt;Freedom to customize hardware and software in any way&lt;/li&gt;
+  &lt;li&gt;Greater visibility into security and access control&lt;/li&gt;
+  &lt;li&gt;Fully enforced compliance with regulatory standards&lt;/li&gt;
+  &lt;li&gt;Efficient resource allocation based on user needs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What is a Private Cloud - Definition&lt;/td&gt;
+      &lt;td&gt;Microsoft Azure. (2021). Retrieved December 23, 2021, from Microsoft.com website: https://azure.microsoft.com/en-us/overview/what-is-a-private-cloud/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌Lutkevich, B. (2017). What is a private cloud? Retrieved December 23, 2021, from SearchCloudComputing website: https://searchcloudcomputing.techtarget.com/definition/private-cloud&lt;/p&gt;
+
+&lt;p&gt;‌IBM Cloud Education. (2020, April 10). What is Private Cloud? Retrieved December 23, 2021, from Ibm.com website: https://www.ibm.com/cloud/learn/introduction-to-private-cloud&lt;/p&gt;
+
+&lt;p&gt;‌What is private cloud? (2021). Retrieved December 23, 2021, from Redhat.com website: https://www.redhat.com/en/topics/cloud-computing/what-is-private-cloud&lt;/p&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  

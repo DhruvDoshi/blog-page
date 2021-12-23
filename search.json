@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Private Cloud - Cloud Computing",
+      "category" : "",
+      "tags"     : "cloud-computing",
+      "url"      : "/blog/2021/02/07/private-cloud-in-cloud-computing",
+      "date"     : "2021-02-07 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Public Cloud - Cloud Computing",
       "category" : "",
       "tags"     : "cloud-computing",
