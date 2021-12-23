@@ -3,6 +3,7 @@ layout: post
 title: Hybrid Cloud - Cloud Computing
 description: This blogs emphasis on the hybrid cloud and comapres it with all other iterations
 summary: Hybrid cloud refers to a mixed computing, storage, and services environment made up of on-premises infrastructure, private cloud services, and a public cloud—such as Amazon Web Services (AWS) or Microsoft Azure—with orchestration among the various platforms. Using a combination of public clouds, on-premises computing, and private clouds in your data center means that you have a hybrid cloud infrastructure.
+tags: cloud-computing
 pinned: False
 minute: 6
 
