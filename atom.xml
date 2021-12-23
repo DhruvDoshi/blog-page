@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-23T15:52:00-04:00</updated>
+ <updated>2021-12-23T16:02:59-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -103,6 +103,80 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Distributed Cloud - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/10/distributed-cloud-in-cloud-computing-copy-3"/>
+   <updated>2021-02-10T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/10/Distributed-cloud-in-cloud-computing copy 3</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;DISTRIBUTED CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+Distributed cloud enables a geographically distributed, centrally managed distribution of public cloud services optimized for performance, compliance, and edge computing.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;How distributed cloud WORKS?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+You may have heard of distributed computing, in which application components are spread across different networked computers, and communicate with one another through messaging or APIs, with the goal of improving overall application performance or maximize computing efficiency.&lt;/p&gt;
+
+&lt;p&gt;Distributed cloud goes a giant step further by distributing a public cloud provider’s entire compute stack to wherever a customer might need it - on-premises in the customer’s own data center or private cloud, or off-premises in one or more public cloud data centers that may or may not belong to the cloud provider.&lt;/p&gt;
+
+&lt;p&gt;In effect, distributed cloud extends the provider’s centralized cloud with geographically distributed micro-cloud satellites. The cloud provider retains central control over the operations, updates, governance, security and reliability of all distributed infrastructure. And the customer accesses everything - the centralized cloud services, and the satellites wherever they are located - as a single cloud and manages it all from a single control plane. In this way, as industry analyst Gartner puts it, distributed cloud fixes with hybrid cloud and hybrid multicloud breaks.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Use Case for DISTRIBUTED CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+Distributed cloud and edge computing support everything from simplified multicloud management, to improved scalability and development velocity, to deployment of state-of-the-art automation and decision support applications and functionality.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improved hybrid cloud/multicloud visibility and manageability&lt;/li&gt;
+  &lt;li&gt;Efficient, cost-effective scalability and agility&lt;/li&gt;
+  &lt;li&gt;Easier industry or localized regulatory compliance&lt;/li&gt;
+  &lt;li&gt;Faster content delivery&lt;/li&gt;
+  &lt;li&gt;IoT, (AI) and machine learning applications&lt;/li&gt;
+  &lt;li&gt;Scalablity and Flexiablity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Challenges with DISTRIBUTED CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
+Managing an enterprise using a multi-site cloud deployment has its challenges including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bandwidth&lt;/li&gt;
+  &lt;li&gt;Security&lt;/li&gt;
+  &lt;li&gt;Data Protection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;FURTHER READING&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The implementation of distributed cloud could be merged with multiple new age technologies like, blockchian and AI. There is a post on this please &lt;a href=&quot;https://dhruvdoshi.github.io/blog/2019/10/31/what-if-we-combine-blockchain-and-cloud&quot;&gt; read this.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There was an article published in &lt;a href=&quot;https://www.forbes.com/sites/forbestechcouncil/2021/06/21/distributed-cloud-is-the-way-of-the-future--what-this-means-for-your-business/?sh=3a91846d6818&quot;&gt;FORBES MAGAZINE,&lt;/a&gt; this article put emphasis on distributed cloud and the things which could be changed with the implementation of this sort within cloud industry&lt;/p&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;p&gt;Sahai, A. (2021, June 21). Council Post: Distributed Cloud Is The Way Of The Future – What This Means For Your Business. Forbes. Retrieved from https://www.forbes.com/sites/forbestechcouncil/2021/06/21/distributed-cloud-is-the-way-of-the-future–what-this-means-for-your-business/?sh=3a91846d6818&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;‌What is a Distributed Cloud?&lt;/td&gt;
+      &lt;td&gt;VMware Glossary. (2021, December 17). Retrieved December 23, 2021, from VMware website: https://www.vmware.com/topics/glossary/content/distributed-cloud.html&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌IBM Cloud Education. (2020, November 3). What is Distributed Cloud. Retrieved December 23, 2021, from Ibm.com website: https://www.ibm.com/cloud/learn/distributed-cloud&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;‌Google Distributed Cloud&lt;/td&gt;
+      &lt;td&gt;Google Cloud. (2021). Retrieved December 23, 2021, from Google Cloud website: https://cloud.google.com/distributed-cloud&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
