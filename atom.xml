@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-23T11:56:54-04:00</updated>
+ <updated>2021-12-23T12:02:51-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -43,10 +43,22 @@ There are five service models out of them top 3 are widely used and most of the 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Major Deployment Models&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
 To deply the cloud architecture there are three ways we could do. With private being the most used till today organizations are moving to use Hybrid cloud more nowadyas and also migrating towards also.&lt;/p&gt;
 
+&lt;p&gt;The following images displays that what each cloud models offer to the users,&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/cDeVyAA.png&quot; style=&quot;height:40%; width:80%;&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The following image puts more emphasis on the comparison across all three cloud models/&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/eN2sOKk.jpg&quot; style=&quot;height:40%; width:80%;&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Read more about them here,&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain&quot;&gt;Private Cloud&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain&quot;&gt;Public Cloud&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dhruvdoshi.github.io/blog/2019/09/02/what-is-timestamping-in-blockchain&quot;&gt;Hybrid Cloud &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dhruvdoshi.github.io/blog/2021/02/07/private-cloud-in-cloud-computing&quot;&gt;Private Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dhruvdoshi.github.io/blog/2021/02/06/public-cloud-in-cloud-computing&quot;&gt;Public Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dhruvdoshi.github.io/blog/2021/02/08/hybrid-cloud-in-cloud-computing&quot;&gt;Hybrid Cloud &lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Other Deployment Models&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
