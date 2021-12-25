@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-25T09:32:53-04:00</updated>
+ <updated>2021-12-25T10:13:02-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>What is Cloud Computing?</title>
-   <link href="https://dhruvdoshi.github.io/blog/2021/02/15/what-is-cloud-computing"/>
-   <updated>2021-02-15T00:00:00-04:00</updated>
-   <id>https://dhruvdoshi.github.io/2021/02/15/What-is-cloud-computing?</id>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/25/what-is-cloud-computing"/>
+   <updated>2021-02-25T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/25/What-is-cloud-computing?</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;CLOUD COMPUTING&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center. Cloud computing relies on sharing of resources to achieve coherence[clarification needed] and economies of scale, typically using a “pay-as-you-go” model which can help in reducing capital expenses but may also lead to unexpected operating expenses for unaware users.&lt;/p&gt;
@@ -103,6 +103,112 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Downtime with Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/16/downtime-in-cloud-computing"/>
+   <updated>2021-02-16T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/16/Downtime-in-cloud-computing</id>
+   <content type="html">&lt;center&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Downtine in Cloud Computing&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+Cloud Outage simply refers to the duration when the cloud infrastructure service is unavailable for use. The unavailability may also refer to performance inadequacy of the service, as per the agreed SLA metrics. For instance, the incident during which an outage may have only partially impacted a data center may cause the vendor to perform the necessary maintenance and restoration measures. Until the service is fully restored as per the agreed SLA standards, it may be seen as a downtime for the end-user.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Causes of Downtime or Cloud Outage&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Power Outage&lt;/li&gt;
+  &lt;li&gt;Cyber Attacks and Security Breaches&lt;/li&gt;
+  &lt;li&gt;Human Errors&lt;/li&gt;
+  &lt;li&gt;Software and Technical Issues&lt;/li&gt;
+  &lt;li&gt;Networking Issues&lt;/li&gt;
+  &lt;li&gt;Maintenance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more desriptive attacks we could look at,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Traffic Overload DDoS Attacks&lt;/li&gt;
+  &lt;li&gt;DNS Failure&lt;/li&gt;
+  &lt;li&gt;Expired Domain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Repurcations of Downtime or Cloud Outage&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lost of Sales Revenue&lt;/li&gt;
+  &lt;li&gt;Lost employee Productivity&lt;/li&gt;
+  &lt;li&gt;Corruption of and gaps in mission-critical data&lt;/li&gt;
+  &lt;li&gt;Damages to equipment and associated assets&lt;/li&gt;
+  &lt;li&gt;Cost of remediating systems and core business processes&lt;/li&gt;
+  &lt;li&gt;Damaged reputation with customers and key stakeholders&lt;/li&gt;
+  &lt;li&gt;Degradation of employee morale&lt;/li&gt;
+  &lt;li&gt;Regulatory, compliance, and legal penalties (including potential litigation fees)&lt;/li&gt;
+  &lt;li&gt;Loss of insurance discounts; Contract penalties&lt;/li&gt;
+  &lt;li&gt;Disruption of supply-chain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;According to reports, In 2013, Forbes famously calculated the cost associated with the eTailer’s most critical outage that year. Based on Amazon’s 2012 net sales, it was determined that  outage cost Amazon $66,240 per minute—or nearly $2 million. A previous outage in June 2008 was close to $31,000 per minute, based on the previous quarter’s global revenue of $4.13 billion. Amazon reported revenues of $107 billion in 2015, which comes out to $203,577 every minute in today’s numbers, or a $2,646,501 price tag for the 13 minute episode of downtime.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Last five major Cloud Outages&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Microsoft Azure, March 2020
+ On March 3, 2020, Microsoft Azure services in Microsoft’s East U.S. data center region encountered more than six hours of outage. The outage affected a subset of East U.S. customers. The Redmond giant disclosed that a cooling system failure led to the outage, which impacted storage, compute, networking, and other services.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;IBM Cloud, June 2020
+ IBM Cloud suffered a multi-zone, four-hour interruption of services on June 10, 2020 that affected IBM cloud customers in Washington, D.C., Dallas, London, Frankfurt, and Sydney. The outage impacted general cloud services, Kubernetes services, App connect, and Watson AI cloud services. An investigation revealed that a third party network provider flooded the IBM Cloud network with incorrect routing, which impacted IBM Cloud services and 80+ data centers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cloudflare, July 2020
+ A 27 minutes Cloudflare outage took down a significant chunk of internet services on July 17, 2020. The outage was due to a configuration error in Cloudflare’s global backbone network, which resulted in a 50% traffic drop across its network. The disruption impacted several big name clients such as Discord, Feedly, GitLab, League of Legends, Patreon, Politico, and Shopify.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;AWS, November 2020
+ Even though 2020 turned out to be a strong financial year for AWS, the cloud giant suffered a multi-hour, global outage on November 25, 2020 which sparked a wave of memes on Twitter. The interruption affected the U.S. East-1 region that knocked down services of prominent AWS customers, including 1Password, Adobe Spark, Autodesk, Flickr, iRobot, Roku, Twilio, The Washington Post, and Glassdoor. The interruption was triggered due to the small addition of capacity to Amazon Kinesis. Also, it affected other AWS services, such as Lambda, LEX, Macie, Managed Blockchain, Marketplace, MediaLive, MediaConvert, Personalize, Rekognition, SageMaker, and Workspaces.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Google Cloud, December 2020
+ On December 14, 2020, Google Cloud experienced a widespread outage that interrupted services, including YouTube, Google Workspace, and Gmail. The 47 minutes outage was due to its automated storage quota management system that reduced the authentication system’s capacity and prevented users from accessing the services.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;p&gt;Griffin, C. (2021). Cloud Outages: Cloud Services Downtime And The Lasting Impact. Retrieved December 25, 2021, from CRN website: https://www.crn.com/news/cloud/index/cloud-outages-cloud-services-downtime.htm&lt;/p&gt;
+
+&lt;p&gt;‌What is a Cloud Outage? Cloud Outages Explained. (2019). Retrieved December 25, 2021, from BMC Blogs website: https://www.bmc.com/blogs/cloud-outage/&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;‌What is downtime (cloud service)?&lt;/td&gt;
+      &lt;td&gt;mlytics. (2020, February 26). Retrieved December 25, 2021, from Mlytics Learning Center website: https://learning.mlytics.com/origin-server/what-is-downtime-cloud-service/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌Toolbox. (2020, December 29). 5 Cloud Outages That Shook the World in 2020 - Toolbox. Retrieved December 25, 2021, from Toolbox website: https://www.toolbox.com/tech/cloud/articles/5-cloud-outages-that-shook-the-world-in-2020/&lt;/p&gt;
+
+&lt;p&gt;‌Naser, H. (2020, May 20). The True Cost Of Cloud Downtime. Retrieved December 25, 2021, from VEXXHOST website: https://vexxhost.com/blog/the-true-cost-of-cloud-downtime/&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;‌The Cost of Downtime At The World’s Biggest Online Retailer&lt;/td&gt;
+      &lt;td&gt;UpGuard. (2021). Retrieved December 25, 2021, from Upguard.com website: https://www.upguard.com/blog/the-cost-of-downtime-at-the-worlds-biggest-online-retailer&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
