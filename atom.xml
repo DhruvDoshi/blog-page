@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-23T16:02:59-04:00</updated>
+ <updated>2021-12-25T09:00:24-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -108,9 +108,9 @@ There are immense potential in cloud computing and features which could be extra
  
  <entry>
    <title>Distributed Cloud - Cloud Computing</title>
-   <link href="https://dhruvdoshi.github.io/blog/2021/02/10/distributed-cloud-in-cloud-computing-copy-3"/>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/10/distributed-cloud-in-cloud-computing"/>
    <updated>2021-02-10T00:00:00-04:00</updated>
-   <id>https://dhruvdoshi.github.io/2021/02/10/Distributed-cloud-in-cloud-computing copy 3</id>
+   <id>https://dhruvdoshi.github.io/2021/02/10/Distributed-cloud-in-cloud-computing</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;DISTRIBUTED CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
 Distributed cloud enables a geographically distributed, centrally managed distribution of public cloud services optimized for performance, compliance, and edge computing.&lt;/p&gt;
 
