@@ -52,12 +52,12 @@ Read more about them here,
 
 <b><span style="color:green">Other Deployment Models</span></b><br>
 
-1. <a href="https://dhruvdoshi.github.io/blog/2019/08/31/what-is-blockchain">Community Cloud</a>
-2. <a href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain">Distributed Cloud</a>
-3. <a href="https://dhruvdoshi.github.io/blog/2019/09/02/what-is-timestamping-in-blockchain">Multi Cloud </a>
-4. <a href="https://dhruvdoshi.github.io/blog/2019/09/03/what-is-mining-in-blockchain">Poly Cloud</a>
-5. <a href="https://dhruvdoshi.github.io/blog/2019/09/04/what-is-wallet-in-blockchain">Big Data Cloud</a>
-6. <a href="https://dhruvdoshi.github.io/blog/2019/09/05/what-is-anonimity-in-blockchain">HPC Cloud</a>
+1. <a href="https://dhruvdoshi.github.io/blog/2021/02/09/community-cloud-in-cloud-computing">Community Cloud</a>
+2. <a href="https://dhruvdoshi.github.io/blog/2021/02/10/distributed-cloud-in-cloud-computing">Distributed Cloud</a>
+3. <a href="https://dhruvdoshi.github.io/blog/2021/02/11/multi-cloud-in-cloud-computing">Multi Cloud </a>
+4. <a href="https://dhruvdoshi.github.io/blog/2021/02/12/poly-cloud-in-cloud-computing">Poly Cloud</a>
+<!-- 5. <a href="https://dhruvdoshi.github.io/blog/2019/09/04/what-is-wallet-in-blockchain">Big Data Cloud</a> -->
+5. <a href="https://dhruvdoshi.github.io/blog/2021/02/14/hpc-cloud-in-cloud-computing">HPC Cloud</a>
 
 
 <b><span style="color:green">Security and Privacy</span></b><br>
