@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-25T09:14:44-04:00</updated>
+ <updated>2021-12-25T09:27:18-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -103,6 +103,99 @@ There are immense potential in cloud computing and features which could be extra
 &lt;p&gt;Wikipedia Contributors. (2021, December 15). Cloud computing. Retrieved December 21, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
 
 &lt;p&gt;Larkin, A. (2019, August 7). Disadvantages of Cloud Computing. Retrieved December 21, 2021, from Cloud Academy website: https://cloudacademy.com/blog/disadvantages-of-cloud-computing/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>HPC Cloud - Cloud Computing</title>
+   <link href="https://dhruvdoshi.github.io/blog/2021/02/14/hpc-cloud-in-cloud-computing"/>
+   <updated>2021-02-14T00:00:00-04:00</updated>
+   <id>https://dhruvdoshi.github.io/2021/02/14/HPC-cloud-in-cloud-computing</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;HPC CLOUD&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;HPC stands for High Performance Computing, the name dictattes itslef. This is the vertical in which cloud computing offers extremenly high resources in the computation side. AWS is run away winner with this use case.&lt;/p&gt;
+
+&lt;p&gt;This is not a new concept altogether. Here the difference between the traditional cloud service and this one is the ammount of resources and the speed which is being offered by the playform. As an Exaple AWS states, “Run your large, complex simulations and deep learning workloads in the cloud with a complete suite of high performance computing (HPC) products and services on AWS. Gain insights faster, and quickly move from idea to market with virtually unlimited compute capacity, a high-performance file system, and high-throughput networking.”&lt;/p&gt;
+
+&lt;p&gt;So if we need to define HPC it would be like, “High performance computing (HPC) is the ability to process data and perform complex calculations at high speeds. To put it into perspective, a laptop or desktop with a 3 GHz processor can perform around 3 billion calculations per second. While that is much faster than any human can achieve, it pales in comparison to HPC solutions that can perform quadrillions of calculations per second. “&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Use cases of HPC CLOUD&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Deployed on premises, at the edge, or in the cloud, HPC solutions are used for a variety of purposes across multiple industries. Examples include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Research Labs&lt;/li&gt;
+  &lt;li&gt;Media and Entertainment&lt;/li&gt;
+  &lt;li&gt;Oil and Gas&lt;/li&gt;
+  &lt;li&gt;Artificial Intelligence&lt;/li&gt;
+  &lt;li&gt;Machine Learning&lt;/li&gt;
+  &lt;li&gt;Financial Services&lt;/li&gt;
+  &lt;li&gt;Healthcare&lt;/li&gt;
+  &lt;li&gt;Manufacturing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Who is offering HPC Service&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/&quot;&gt;Amazon Web Services (AWS)&lt;/a&gt; : The most prolific service provider in the market as it comees up with services like, EC2, ELASTIC FIBER, PARALLEL CLUSTER, AWS BATCH and NICE DCV.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/&quot;&gt;Google Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ibm.com/cloud&quot;&gt;IBM Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-gb/&quot;&gt;Microsoft Azure&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Large scale istitutions like, Netflix, Amazon, MIT, HSBC, Mchigen University etc are using this service on daily basis to improve and obtain extreme computation edge compared to other peers.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Advantages of HPC CLOUD?&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bursting HPC workload into the cloud&lt;/li&gt;
+  &lt;li&gt;Capacity and Capability to run HPC workloads&lt;/li&gt;
+  &lt;li&gt;Adapt the hardware resources to the individual HPC job&lt;/li&gt;
+  &lt;li&gt;Testing and benchmarking new hardware&lt;/li&gt;
+  &lt;li&gt;Save money and time on expensive ISV software licenses&lt;/li&gt;
+  &lt;li&gt;Archive result data&lt;/li&gt;
+  &lt;li&gt;Parallel File System as a Service&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Disadvantages of HPC CLOUD?&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cost of HPC in the Cloud higher than on-premises&lt;/li&gt;
+  &lt;li&gt;Performance in the Cloud&lt;/li&gt;
+  &lt;li&gt;Data Gravity keeps data in the cloud&lt;/li&gt;
+  &lt;li&gt;Data Egress Cost for downloading data from the cloud&lt;/li&gt;
+  &lt;li&gt;ISV Licenses – terms and network access&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You could find more information on all of these topics from the &lt;a href=&quot;https://dhruvdoshi.github.io/blog&quot;&gt;home&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What Is Hybrid Cloud? - Benefits and Advantages of a Hybrid Cloud&lt;/td&gt;
+      &lt;td&gt;NetApp. (2021). Retrieved December 23, 2021, from Netapp.com website: https://www.netapp.com/hybrid-cloud/what-is-hybrid-cloud/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌Sai Vennam. (2021, May 12). hybrid-cloud. Retrieved December 23, 2021, from Ibm.com website: https://www.ibm.com/cloud/learn/hybrid-cloud&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;‌What is hybrid cloud computing – Definition&lt;/td&gt;
+      &lt;td&gt;Microsoft Azure. (2021). Retrieved December 23, 2021, from Microsoft.com website: https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌What is hybrid cloud? (2021). Retrieved December 23, 2021, from Redhat.com website: https://www.redhat.com/en/topics/cloud-computing/what-is-hybrid-cloud&lt;/p&gt;
+
+&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
