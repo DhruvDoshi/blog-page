@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-25T10:13:02-04:00</updated>
+ <updated>2021-12-25T10:17:28-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -111,8 +111,7 @@ There are immense potential in cloud computing and features which could be extra
    <link href="https://dhruvdoshi.github.io/blog/2021/02/16/downtime-in-cloud-computing"/>
    <updated>2021-02-16T00:00:00-04:00</updated>
    <id>https://dhruvdoshi.github.io/2021/02/16/Downtime-in-cloud-computing</id>
-   <content type="html">&lt;center&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Downtine in Cloud Computing&lt;/span&gt;&lt;/b&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;
+   <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Downtine in Cloud Computing&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
 Cloud Outage simply refers to the duration when the cloud infrastructure service is unavailable for use. The unavailability may also refer to performance inadequacy of the service, as per the agreed SLA metrics. For instance, the incident during which an outage may have only partially impacted a data center may cause the vendor to perform the necessary maintenance and restoration measures. Until the service is fully restored as per the agreed SLA standards, it may be seen as a downtime for the end-user.&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;Causes of Downtime or Cloud Outage&lt;/span&gt;&lt;/p&gt;
@@ -208,7 +207,6 @@ Cloud Outage simply refers to the duration when the cloud infrastructure service
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;‌&lt;/p&gt;
 </content>
  </entry>
  
