@@ -70,12 +70,14 @@ You could find more information on all of these topics from the <a href="https:/
 
 #### REFERENCES
 
-What Is Hybrid Cloud? - Benefits and Advantages of a Hybrid Cloud | NetApp. (2021). Retrieved December 23, 2021, from Netapp.com website: https://www.netapp.com/hybrid-cloud/what-is-hybrid-cloud/
+UberCloud. (2018). Cloud HPC. Retrieved December 25, 2021, from Theubercloud.com website: https://www.theubercloud.com/cloud-hpc
 
-‌Sai Vennam. (2021, May 12). hybrid-cloud. Retrieved December 23, 2021, from Ibm.com website: https://www.ibm.com/cloud/learn/hybrid-cloud
+‌High Performance Computing (HPC) Solutions  |  Google Cloud. (2021). Retrieved December 25, 2021, from Google Cloud website: https://cloud.google.com/solutions/hpc
 
-‌What is hybrid cloud computing – Definition | Microsoft Azure. (2021). Retrieved December 23, 2021, from Microsoft.com website: https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/
+‌High Performance Computing (HPC) | AWS. (2021). Retrieved December 25, 2021, from Amazon Web Services, Inc. website: https://aws.amazon.com/hpc/
 
-‌What is hybrid cloud? (2021). Retrieved December 23, 2021, from Redhat.com website: https://www.redhat.com/en/topics/cloud-computing/what-is-hybrid-cloud
+‌What is High Performance Computing | NetApp. (2019). Retrieved December 25, 2021, from Netapp.com website: https://www.netapp.com/data-storage/high-performance-computing/what-is-hpc/
+
+‌HPC in the Cloud - Pros and Cons. (2021, May 18). Retrieved December 25, 2021, from Ni-sp.com website: https://www.ni-sp.com/support/hpc-in-the-cloud/
 
 ‌
