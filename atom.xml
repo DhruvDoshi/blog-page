@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2021-12-25T09:30:50-04:00</updated>
+ <updated>2021-12-25T09:32:53-04:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -173,27 +173,36 @@ There are immense potential in cloud computing and features which could be extra
 
 &lt;h4 id=&quot;references&quot;&gt;REFERENCES&lt;/h4&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;What Is Hybrid Cloud? - Benefits and Advantages of a Hybrid Cloud&lt;/td&gt;
-      &lt;td&gt;NetApp. (2021). Retrieved December 23, 2021, from Netapp.com website: https://www.netapp.com/hybrid-cloud/what-is-hybrid-cloud/&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;‌Sai Vennam. (2021, May 12). hybrid-cloud. Retrieved December 23, 2021, from Ibm.com website: https://www.ibm.com/cloud/learn/hybrid-cloud&lt;/p&gt;
+&lt;p&gt;UberCloud. (2018). Cloud HPC. Retrieved December 25, 2021, from Theubercloud.com website: https://www.theubercloud.com/cloud-hpc&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;‌What is hybrid cloud computing – Definition&lt;/td&gt;
-      &lt;td&gt;Microsoft Azure. (2021). Retrieved December 23, 2021, from Microsoft.com website: https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/&lt;/td&gt;
+      &lt;td&gt;‌High Performance Computing (HPC) Solutions&lt;/td&gt;
+      &lt;td&gt;Google Cloud. (2021). Retrieved December 25, 2021, from Google Cloud website: https://cloud.google.com/solutions/hpc&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;‌What is hybrid cloud? (2021). Retrieved December 23, 2021, from Redhat.com website: https://www.redhat.com/en/topics/cloud-computing/what-is-hybrid-cloud&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;‌High Performance Computing (HPC)&lt;/td&gt;
+      &lt;td&gt;AWS. (2021). Retrieved December 25, 2021, from Amazon Web Services, Inc. website: https://aws.amazon.com/hpc/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;‌What is High Performance Computing&lt;/td&gt;
+      &lt;td&gt;NetApp. (2019). Retrieved December 25, 2021, from Netapp.com website: https://www.netapp.com/data-storage/high-performance-computing/what-is-hpc/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;‌HPC in the Cloud - Pros and Cons. (2021, May 18). Retrieved December 25, 2021, from Ni-sp.com website: https://www.ni-sp.com/support/hpc-in-the-cloud/&lt;/p&gt;
 
 &lt;p&gt;‌&lt;/p&gt;
 </content>
