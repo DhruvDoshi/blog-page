@@ -9,7 +9,7 @@ minute: 6
 
 ---
 
-<center><b><span style="color:green">Downtine in Cloud Computing</span></b></center><br>
+<b><span style="color:green">Downtine in Cloud Computing</span></b><br>
 Cloud Outage simply refers to the duration when the cloud infrastructure service is unavailable for use. The unavailability may also refer to performance inadequacy of the service, as per the agreed SLA metrics. For instance, the incident during which an outage may have only partially impacted a data center may cause the vendor to perform the necessary maintenance and restoration measures. Until the service is fully restored as per the agreed SLA standards, it may be seen as a downtime for the end-user.
 
 <span style="color:green">Causes of Downtime or Cloud Outage</span>
@@ -79,4 +79,3 @@ Griffin, C. (2021). Cloud Outages: Cloud Services Downtime And The Lasting Impac
 
 ‌The Cost of Downtime At The World’s Biggest Online Retailer | UpGuard. (2021). Retrieved December 25, 2021, from Upguard.com website: https://www.upguard.com/blog/the-cost-of-downtime-at-the-worlds-biggest-online-retailer
 
-‌
