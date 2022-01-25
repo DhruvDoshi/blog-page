@@ -33,7 +33,7 @@ Run local server:
 
 ```bash
 $ git clone https://github.com/DhruvDoshi/blog
-$ cd Gesko
+$ cd blog
 $ bundle install
 $ bundle exec jekyll build
 $ bundle exec jekyll serve
